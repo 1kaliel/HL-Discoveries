@@ -6,10 +6,6 @@ Find asset paths, animation properties, related meshes and sounds, and build-spe
 runtime observations. This is a **data-only reference**, not a multiplayer framework,
 game resource, asset pack, or replacement for official API documentation.
 
-Inspired by the category-based research approach of
-[RDR3-Discoveries](https://github.com/femga/rdr3_discoveries). No code or datasets from that
-project are included here.
-
 ## Start here
 
 - [Chest discoveries](guides/chests.md): opening clips, matching skeletons, separate lids and sound.
