@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "fbd64f409c8e36b85f547eb8",
+      "name": "Character360 Sony Avatar",
+      "path": "/Game/Editors/Character360/Backgrounds/Character360_Sony_Avatar.Character360_Sony_Avatar",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "avatar",
+        "backgrounds",
+        "character360",
+        "editor.reference",
+        "editors",
+        "sony",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f56e2b11c17fd54b94375331",
+      "name": "Character360",
+      "path": "/Game/Editors/Character360/Backgrounds/Character360.Character360",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "backgrounds",
+        "character360",
+        "editor.reference",
+        "editors",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "fa8616b13f4563613308766d",
+      "name": "Gear Icon Maker Built Data",
+      "path": "/Game/Editors/GearIconMaker/GearIconMaker_BuiltData.GearIconMaker_BuiltData",
+      "kind": "editor.reference",
+      "assetClass": "MapBuildDataRegistry",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "builtdata",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "geariconmaker"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f31b6f0402380b24d3afed1b",
+      "name": "Locked",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Locked.UI_T_Locked",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "locked",
+        "modelviewer",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f5587fa6074e98d949e02a85",
+      "name": "Save",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Save.UI_T_Save",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "save",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f6d75e90c4cfef735f9d3747",
+      "name": "Model Viewer",
+      "path": "/Game/Editors/ModelViewer/ModelViewer.ModelViewer",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "modelviewer",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f8e7d3ca19632c3652ca015c",
+      "name": "UI BP Model Viewer",
+      "path": "/Game/Editors/ModelViewer/UI/UI_BP_ModelViewer.UI_BP_ModelViewer",
+      "kind": "editor.reference",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "modelviewer",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

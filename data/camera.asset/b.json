@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "bb038668bcbb459f3b00fd4a",
+      "name": "Add Camera Space Translation Combat",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddCameraSpaceTranslation_Combat.BP_AddCameraSpaceTranslation_Combat",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addcameraspacetranslation",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "combat",
+        "data"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b48d7ac74c3cab9b8a3f6929",
+      "name": "Cross Blend Captured Beast Size",
+      "path": "/Game/Data/Camera/Behaviors/BP_CrossBlend_CapturedBeastSize.BP_CrossBlend_CapturedBeastSize",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "capturedbeastsize",
+        "crossblend",
+        "data"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ba0607ab8ce77d6f62eef237",
+      "name": "BT Camera Input",
+      "path": "/Game/Data/Camera/BehaviorTree/BT_Camera_Input.BT_Camera_Input",
+      "kind": "camera.asset",
+      "assetClass": "BehaviorTree",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "bt",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "input"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "bfc47b5863a1e6b76fd9fca8",
+      "name": "BT Camera Mount Hippogriff Flight",
+      "path": "/Game/Data/Camera/BehaviorTree/BT_Camera_Mount_HippogriffFlight.BT_Camera_Mount_HippogriffFlight",
+      "kind": "camera.asset",
+      "assetClass": "BehaviorTree",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "bt",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "hippogriffflight",
+        "mount"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b366f39da7687affeaf8aff7",
+      "name": "Potion And Herbology Camera Stack Actor",
+      "path": "/Game/Data/Camera/BP_PotionAndHerbologyCameraStackActor.BP_PotionAndHerbologyCameraStackActor",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "potionandherbologycamerastackactor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "be47bd56c579a662ddae100e",
+      "name": "C Look At Yaw To Yaw Speed Mounting",
+      "path": "/Game/Data/Camera/Curves/C_LookAt_YawToYawSpeed_Mounting.C_LookAt_YawToYawSpeed_Mounting",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "lookat",
+        "mounting",
+        "yawtoyawspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ba93c1ea45d2d6ee3727c08e",
+      "name": "Pitch To Transform Curves Transfiguration Large",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Transfiguration_Large.DA_PitchToTransformCurves_Transfiguration_Large",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "large",
+        "pitchtotransformcurves",
+        "transfiguration"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b52900a56a0c642f9c3b7f87",
+      "name": "UI BP Camera Collision Colored Cell Widget",
+      "path": "/Game/Data/Camera/Editor/CollisionTools/UI_BP_CameraCollisionColoredCellWidget.UI_BP_CameraCollisionColoredCellWidget",
+      "kind": "camera.asset",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "camera",
+        "camera.asset",
+        "cameracollisioncoloredcellwidget",
+        "cameradata",
+        "collisiontools",
+        "data",
+        "editor",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b22a5ce697b723526ad65f8b",
+      "name": "Look Ahead Along Spline Preset",
+      "path": "/Game/Data/Camera/Presets/DA_LookAheadAlongSpline_Preset.DA_LookAheadAlongSpline_Preset",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackVolumePreset",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "lookaheadalongspline",
+        "preset",
+        "presets"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b4caacfa672a5776648fb9ab",
+      "name": "Graphorn Debug Third Person Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_GraphornDebugThirdPersonCamera_StackSettings.DA_GraphornDebugThirdPersonCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "graphorndebugthirdpersoncamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b13d4c5b161d3b6ae4d5ccba",
+      "name": "Hippogriff Mounting To Trot Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_HippogriffMountingToTrot_StackSettings.DA_HippogriffMountingToTrot_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "hippogriffmountingtotrot",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ba80cbcf1c7e2d086746753b",
+      "name": "Hippogriff Third Person Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_HippogriffThirdPersonCamera_StackSettings.DA_HippogriffThirdPersonCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "hippogriffthirdpersoncamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b55373dd3b4b91e06fb844f8",
+      "name": "New Broom Flight Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_NewBroomFlightCamera_StackSettings.DA_NewBroomFlightCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "newbroomflightcamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b73d9547949f2a7fad0fb663",
+      "name": "Scene Rig Salon Vendor Preview Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_SceneRigSalonVendorPreviewCamera_StackSettings.DA_SceneRigSalonVendorPreviewCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "scenerigsalonvendorpreviewcamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    }
+  ]
+}

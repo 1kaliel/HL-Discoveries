@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "aeedbbb4b9e77150a91dd4a1",
+      "name": "Gear Icon Maker Pawn",
+      "path": "/Game/Editors/GearIconMaker/Blueprints/BP_GearIconMaker_Pawn.BP_GearIconMaker_Pawn",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "geariconmaker",
+        "pawn"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a0528ba589e98d9f593fb4ea",
+      "name": "Gear Icon Maker",
+      "path": "/Game/Editors/GearIconMaker/GearIconMaker.GearIconMaker",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "geariconmaker",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a8087ca65299afc9019f9418",
+      "name": "Rotate Camera",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_RotateCamera.UI_T_RotateCamera",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "rotatecamera",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "9b8550792779ede7232a9a4a",
+      "name": "Gear Icon Maker Face",
+      "path": "/Game/Editors/GearIconMaker/Scenes/GearIconMaker_Face.GearIconMaker_Face",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "face",
+        "geariconmaker",
+        "scenes",
+        "world"
+      ],
+      "properties": {}
+    }
+  ]
+}

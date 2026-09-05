@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "72a975bf20a94000c5beaf29",
+      "name": "Play",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Play.UI_T_Play",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "play",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

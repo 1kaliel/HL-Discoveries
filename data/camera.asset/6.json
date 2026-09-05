@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "61a9fd6113f447ceb0bc704a",
+      "name": "Lag Jump Vault",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_JumpVault.BP_Lag_JumpVault",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "jumpvault",
+        "lag"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6d49bb820b685cd6b8f7d962",
+      "name": "Look At Falling Pitch",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAt_FallingPitch.BP_LookAt_FallingPitch",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "fallingpitch",
+        "lookat"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6d9b41dbab8a9f106e1414f3",
+      "name": "Look At Target Strong",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAtTarget_Strong.BP_LookAtTarget_Strong",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lookattarget",
+        "strong"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "68fbbdec722d49990bf6e34e",
+      "name": "User FOV Dolly Zoom",
+      "path": "/Game/Data/Camera/Behaviors/BP_UserFOV_DollyZoom.BP_UserFOV_DollyZoom",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "dollyzoom",
+        "userfov"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6970cd903f906fd64b93119d",
+      "name": "User Input Mount Charge",
+      "path": "/Game/Data/Camera/Behaviors/BP_UserInput_MountCharge.BP_UserInput_MountCharge",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mountcharge",
+        "userinput"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "60ae1470edb116fff2ac6672",
+      "name": "C Creature Capture Distance To Yaw",
+      "path": "/Game/Data/Camera/Curves/C_CreatureCapture_DistanceToYaw.C_CreatureCapture_DistanceToYaw",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "creaturecapture",
+        "curves",
+        "data",
+        "distancetoyaw"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6fbd72edf69c437656d5bef3",
+      "name": "C Look At Yaw To Yaw Speed Hippogriff Flight",
+      "path": "/Game/Data/Camera/Curves/C_LookAt_YawToYawSpeed_HippogriffFlight.C_LookAt_YawToYawSpeed_HippogriffFlight",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "hippogriffflight",
+        "lookat",
+        "yawtoyawspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "60e5c7e90352c7d381bdc8aa",
+      "name": "C Look At Yaw To Yaw Speed Point Of Interest",
+      "path": "/Game/Data/Camera/Curves/C_LookAt_YawToYawSpeed_PointOfInterest.C_LookAt_YawToYawSpeed_PointOfInterest",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "lookat",
+        "pointofinterest",
+        "yawtoyawspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "68a700c7d2a22d830dfa8d8f",
+      "name": "Pitch To Transform Curves Hippogriff Fall",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_HippogriffFall.DA_PitchToTransformCurves_HippogriffFall",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "hippogrifffall",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "68ad8f88a7a1440d36de6df2",
+      "name": "Pitch To Transform Curves Transfiguration",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Transfiguration.DA_PitchToTransformCurves_Transfiguration",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "pitchtotransformcurves",
+        "transfiguration"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6d90cb07d74ef60e8baed6a6",
+      "name": "UI BP Camera Fading Type Button Cell Widget",
+      "path": "/Game/Data/Camera/Editor/CollisionTools/UI_BP_CameraFadingTypeButtonCellWidget.UI_BP_CameraFadingTypeButtonCellWidget",
+      "kind": "camera.asset",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "camerafadingtypebuttoncellwidget",
+        "collisiontools",
+        "data",
+        "editor",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6f2d3ce5c906121f75e32cd2",
+      "name": "Tight Interior Camera Preset",
+      "path": "/Game/Data/Camera/Presets/DA_TightInteriorCamera_Preset.DA_TightInteriorCamera_Preset",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackVolumePreset",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "preset",
+        "presets",
+        "tightinteriorcamera"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "67d094747695a1fc233661f0",
+      "name": "Cine Collision With Mirror Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/Cinematic/DA_CineCollision_WithMirror_StackSettings.DA_CineCollision_WithMirror_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "cinecollision",
+        "cinematic",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings",
+        "withmirror"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "611680e8916c0adfa4d27317",
+      "name": "DEPRECATED HM Cabinet Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_DEPRECATED_HM_CabinetCamera_StackSettings.DA_DEPRECATED_HM_CabinetCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "cabinetcamera",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "deprecated",
+        "hm",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6ecc2ae222d1b6ec1e3f19e6",
+      "name": "Manhole Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_ManholeCameraStackSettings.DA_ManholeCameraStackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "manholecamerastacksettings",
+        "stacks"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6c831a50608bc9b1597d956f",
+      "name": "Parsel Tongue Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_ParselTongueCamera_StackSettings.DA_ParselTongueCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "parseltonguecamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "621410723d33835d5a0b0f19",
+      "name": "Toad Teleport Camera Enter Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_ToadTeleportCamera_Enter_StackSettings.DA_ToadTeleportCamera_Enter_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "enter",
+        "stacks",
+        "stacksettings",
+        "toadteleportcamera"
+      ],
+      "properties": {}
+    }
+  ]
+}

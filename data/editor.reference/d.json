@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "d27d0e996843c7d3e224285f",
+      "name": "SR Character360",
+      "path": "/Game/Editors/Character360/SR_Character360.SR_Character360",
+      "kind": "editor.reference",
+      "assetClass": "SceneRig",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "character360",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "sr"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "d6078bae6aac0c6d9c4650c1",
+      "name": "Gear Icon Maker Game Mode",
+      "path": "/Game/Editors/GearIconMaker/Blueprints/BP_GearIconMaker_GameMode.BP_GearIconMaker_GameMode",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "gamemode",
+        "geariconmaker"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "da4e6cd0a7f68bb500e350da",
+      "name": "LVL Model Viewer Icon Layout",
+      "path": "/Game/Editors/ModelViewer/Layouts/Icon/LVL_ModelViewer_IconLayout.LVL_ModelViewer_IconLayout",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "icon",
+        "iconlayout",
+        "layouts",
+        "lvl",
+        "modelviewer",
+        "world"
+      ],
+      "properties": {}
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+name: Discovery or runtime observation
+description: Share an asset identifier, inspected property or reproducible test.
+title: "[Discovery] "
+body:
+  - type: input
+    id: asset
+    attributes:
+      label: Exact asset path or event name
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: CK / game / runtime versions
+      description: Specify which were used. Unknown values are fine; do not guess.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Observation and reproduction
+      description: Separate measured facts from inference. Include options and limitations.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Publication check
+      options:
+        - label: I removed private code, personal data, secrets and local paths, and included no game binaries.
+          required: true

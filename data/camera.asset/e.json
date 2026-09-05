@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "e73c312dbe4603ddeaf208c8",
+      "name": "Ambient Cam Anim Hippogriff Flight Diving",
+      "path": "/Game/Data/Camera/Behaviors/AmbientMovement/BP_AmbientCamAnim_HippogriffFlight_Diving.BP_AmbientCamAnim_HippogriffFlight_Diving",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "ambientcamanim",
+        "ambientmovement",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "diving",
+        "hippogriffflight"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e872e86bdd32331c8b6de378",
+      "name": "Ambient Cam Anim Sprint",
+      "path": "/Game/Data/Camera/Behaviors/AmbientMovement/BP_AmbientCamAnim_Sprint.BP_AmbientCamAnim_Sprint",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "ambientcamanim",
+        "ambientmovement",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "sprint"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ef5351d216d6b59cef29f60d",
+      "name": "Add Arm Origin Translation Tight Interior",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddArmOriginTranslation_TightInterior.BP_AddArmOriginTranslation_TightInterior",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addarmorigintranslation",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "tightinterior"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "eaf1ffc8c674f44c7bf07cfd",
+      "name": "Dolly Zoom Biome Transition",
+      "path": "/Game/Data/Camera/Behaviors/BP_DollyZoom_BiomeTransition.BP_DollyZoom_BiomeTransition",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "biometransition",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "dollyzoom"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ef888974701210dcb1035b57",
+      "name": "Input To Yaw Default",
+      "path": "/Game/Data/Camera/Behaviors/BP_InputToYaw_Default.BP_InputToYaw_Default",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "default",
+        "inputtoyaw"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e0ba7de8f6a80d24a223e790",
+      "name": "Lag Swimming",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_Swimming.BP_Lag_Swimming",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lag",
+        "swimming"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e07970728218c9e568210c48",
+      "name": "Match Floor Rotation",
+      "path": "/Game/Data/Camera/Behaviors/BP_MatchFloorRotation.BP_MatchFloorRotation",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "matchfloorrotation"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "eed63c0a261f20b47ee839bd",
+      "name": "Pitch To Transform Curves Swimming",
+      "path": "/Game/Data/Camera/Behaviors/BP_PitchToTransformCurves_Swimming.BP_PitchToTransformCurves_Swimming",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "pitchtotransformcurves",
+        "swimming"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e73ac01874c6bb404f319a0f",
+      "name": "User Input Transfiguration",
+      "path": "/Game/Data/Camera/Behaviors/BP_UserInput_Transfiguration.BP_UserInput_Transfiguration",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "transfiguration",
+        "userinput"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e942bf8385e52d9b3de6b64a",
+      "name": "Walk And Talk Spline Lookahead",
+      "path": "/Game/Data/Camera/Behaviors/BP_WalkAndTalkSplineLookahead.BP_WalkAndTalkSplineLookahead",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "walkandtalksplinelookahead"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e9785b1e2a471930b2df2787",
+      "name": "BT Camera Broom Spline",
+      "path": "/Game/Data/Camera/BehaviorTree/BT_Camera_BroomSpline.BT_Camera_BroomSpline",
+      "kind": "camera.asset",
+      "assetClass": "BehaviorTree",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "broomspline",
+        "bt",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "eea65643ebc0aec7911c541d",
+      "name": "BTD Is Console Variable Set",
+      "path": "/Game/Data/Camera/BehaviorTree/Decorators/BTD_IsConsoleVariableSet.BTD_IsConsoleVariableSet",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "btd",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "decorators",
+        "isconsolevariableset"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e8cabdf3316f09cea928ea01",
+      "name": "BTD Is Mount In Flying Gait",
+      "path": "/Game/Data/Camera/BehaviorTree/Decorators/BTD_IsMountInFlyingGait.BTD_IsMountInFlyingGait",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "btd",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "decorators",
+        "ismountinflyinggait"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e2338995a2a623539c8197c4",
+      "name": "Spell Minigame Camera Stack Actor",
+      "path": "/Game/Data/Camera/BP_SpellMinigameCameraStackActor.BP_SpellMinigameCameraStackActor",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "spellminigamecamerastackactor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ef4a0ad3d9e30b74a84138b0",
+      "name": "Pitch To Transform Curves Graphorn Fall",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_GraphornFall.DA_PitchToTransformCurves_GraphornFall",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "graphornfall",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ea76a8f5513c78fd5d16d7a0",
+      "name": "Pitch To Transform Curves Tight Interiors",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Tight_Interiors.DA_PitchToTransformCurves_Tight_Interiors",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "interiors",
+        "pitchtotransformcurves",
+        "tight"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e2f89e4553b4121f80761cf0",
+      "name": "Pitch To Transform Curves Wide",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Wide.DA_PitchToTransformCurves_Wide",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "pitchtotransformcurves",
+        "wide"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ebb86e7179133b8ded2d983d",
+      "name": "UI BP Camera Collision Button Cell Widget",
+      "path": "/Game/Data/Camera/Editor/CollisionTools/UI_BP_CameraCollisionButtonCellWidget.UI_BP_CameraCollisionButtonCellWidget",
+      "kind": "camera.asset",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "camera",
+        "camera.asset",
+        "cameracollisionbuttoncellwidget",
+        "cameradata",
+        "collisiontools",
+        "data",
+        "editor",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e7f1c77b244698edfa4a40c1",
+      "name": "Ancient Magic World Leaving Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_AncientMagicWorldLeavingCamera_StackSettings.DA_AncientMagicWorldLeavingCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "ancientmagicworldleavingcamera",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e733e6e6df784e39e12e3a18",
+      "name": "Charge Spell Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_ChargeSpellCamera_StackSettings.DA_ChargeSpellCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "chargespellcamera",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "eac756278b1648da39a9c925",
+      "name": "Dueling Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_DuelingCamera_StackSettings.DA_DuelingCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "duelingcamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e392422c69ea388b85bfa5f4",
+      "name": "Enemy Intro Stack Settings Matriarch",
+      "path": "/Game/Data/Camera/Stacks/DA_EnemyIntro_StackSettings_Matriarch.DA_EnemyIntro_StackSettings_Matriarch",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "enemyintro",
+        "matriarch",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "eb30fa6ee5327301c4beea16",
+      "name": "Wingardium Bot WCamera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_WingardiumBotWCamera_StackSettings.DA_WingardiumBotWCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings",
+        "wingardiumbotwcamera"
+      ],
+      "properties": {}
+    }
+  ]
+}

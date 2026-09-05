@@ -1,0 +1,349 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "872f4e2872fdeb0722233fd3",
+      "name": "Ambient Cam Anim Graphorn Charge",
+      "path": "/Game/Data/Camera/Behaviors/AmbientMovement/BP_AmbientCamAnim_GraphornCharge.BP_AmbientCamAnim_GraphornCharge",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "ambientcamanim",
+        "ambientmovement",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "graphorncharge"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8c4ed5c11a6030004c78078a",
+      "name": "Ambient Cam Anim Jog",
+      "path": "/Game/Data/Camera/Behaviors/AmbientMovement/BP_AmbientCamAnim_Jog.BP_AmbientCamAnim_Jog",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "ambientcamanim",
+        "ambientmovement",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "jog"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "80c08e85c502bf2b70682445",
+      "name": "Add Camera Space Translation Broom Boost New",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddCameraSpaceTranslation_Broom_Boost_New.BP_AddCameraSpaceTranslation_Broom_Boost_New",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addcameraspacetranslation",
+        "behaviors",
+        "blueprint",
+        "boost",
+        "bp",
+        "broom",
+        "camera",
+        "camera.asset",
+        "data",
+        "new"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "800d7edaa3b7f6f2121e5c4f",
+      "name": "Lag Broom Boost New",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_Broom_Boost_New.BP_Lag_Broom_Boost_New",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "boost",
+        "bp",
+        "broom",
+        "camera",
+        "camera.asset",
+        "data",
+        "lag",
+        "new"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8dc5bbddf69aee6e29c77a84",
+      "name": "Look At Mount Predicted Trajectory Hippogriff",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAt_MountPredictedTrajectory_Hippogriff.BP_LookAt_MountPredictedTrajectory_Hippogriff",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "hippogriff",
+        "lookat",
+        "mountpredictedtrajectory"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "88c24ad95fd05ab06eea3d1c",
+      "name": "Pitch To Transform Curves Platforming",
+      "path": "/Game/Data/Camera/Behaviors/BP_PitchToTransformCurves_Platforming.BP_PitchToTransformCurves_Platforming",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "pitchtotransformcurves",
+        "platforming"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "87bff5e6db92ee9fad66ce91",
+      "name": "Rotation Lag Gamepad Input",
+      "path": "/Game/Data/Camera/Behaviors/BP_RotationLag_GamepadInput.BP_RotationLag_GamepadInput",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "gamepadinput",
+        "rotationlag"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8010cc571714382722cc0692",
+      "name": "Set Pitch Rotation",
+      "path": "/Game/Data/Camera/Behaviors/BP_SetPitchRotation.BP_SetPitchRotation",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "setpitchrotation"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "87545367325a9badb7f21852",
+      "name": "User Input Aiming",
+      "path": "/Game/Data/Camera/Behaviors/BP_UserInput_Aiming.BP_UserInput_Aiming",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "aiming",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "userinput"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "82044ed61726d96428c895fc",
+      "name": "C Input Angle To Yaw Speed Hippogriff Flight Hover",
+      "path": "/Game/Data/Camera/Curves/C_InputAngleToYawSpeed_HippogriffFlight_Hover.C_InputAngleToYawSpeed_HippogriffFlight_Hover",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "hippogriffflight",
+        "hover",
+        "inputangletoyawspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8094dd016e86b2d3303cf862",
+      "name": "Pitch To Transform Curves Hippogriff",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Hippogriff.DA_PitchToTransformCurves_Hippogriff",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "hippogriff",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "86810e71a15263f6c4ca42cb",
+      "name": "UI BP Collision Profile Cell Widget",
+      "path": "/Game/Data/Camera/Editor/CollisionTools/UI_BP_CollisionProfileCellWidget.UI_BP_CollisionProfileCellWidget",
+      "kind": "camera.asset",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "collisionprofilecellwidget",
+        "collisiontools",
+        "data",
+        "editor",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8a9e5bb6b714923d7a11a70d",
+      "name": "Blink Behind Enemy Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_BlinkBehindEnemy_StackSettings.DA_BlinkBehindEnemy_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blinkbehindenemy",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8bb0f27762731982faf63280",
+      "name": "Nurturing Converter Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_NurturingConverterCamera_StackSettings.DA_NurturingConverterCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "nurturingconvertercamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8dd59353e2b4164090d3586f",
+      "name": "Toad Teleport Camera Exit Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_ToadTeleportCamera_Exit_StackSettings.DA_ToadTeleportCamera_Exit_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "exit",
+        "stacks",
+        "stacksettings",
+        "toadteleportcamera"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8047b055b6cb12c74dcc89ce",
+      "name": "Transfiguration Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_TransfigurationCamera_StackSettings.DA_TransfigurationCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings",
+        "transfigurationcamera"
+      ],
+      "properties": {}
+    }
+  ]
+}

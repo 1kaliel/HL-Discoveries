@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "797302dc2e29436f587955b2",
+      "name": "Ambient Cam Anim Hippogriff Flight",
+      "path": "/Game/Data/Camera/Behaviors/AmbientMovement/BP_AmbientCamAnim_HippogriffFlight.BP_AmbientCamAnim_HippogriffFlight",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "ambientcamanim",
+        "ambientmovement",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "hippogriffflight"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "7198ca3d7cbfb079780d8474",
+      "name": "Dolly Zoom Broom Boost",
+      "path": "/Game/Data/Camera/Behaviors/BP_DollyZoom_Broom_Boost.BP_DollyZoom_Broom_Boost",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "boost",
+        "bp",
+        "broom",
+        "camera",
+        "camera.asset",
+        "data",
+        "dollyzoom"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "705a3b771fa2c8ec98c6ce30",
+      "name": "Rotate Towards Secondary Target Blink Enemy",
+      "path": "/Game/Data/Camera/Behaviors/BP_RotateTowardsSecondaryTarget_BlinkEnemy.BP_RotateTowardsSecondaryTarget_BlinkEnemy",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blinkenemy",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "rotatetowardssecondarytarget"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "754eaed93ec1cd08baa3b7e1",
+      "name": "User Input Mount Landing",
+      "path": "/Game/Data/Camera/Behaviors/BP_UserInput_MountLanding.BP_UserInput_MountLanding",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mountlanding",
+        "userinput"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "7be228c03683aa98f73983be",
+      "name": "BT Camera Mount",
+      "path": "/Game/Data/Camera/BehaviorTree/BT_Camera_Mount.BT_Camera_Mount",
+      "kind": "camera.asset",
+      "assetClass": "BehaviorTree",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "bt",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "mount"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "758cc0ed2c7f8aa4034b6de0",
+      "name": "C Lock On Distance To Yaw",
+      "path": "/Game/Data/Camera/Curves/C_LockOn_DistanceToYaw.C_LockOn_DistanceToYaw",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "distancetoyaw",
+        "lockon"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "71f37e7c579b018370828ded",
+      "name": "C Rotate To Secondary Target Riding",
+      "path": "/Game/Data/Camera/Curves/C_RotateToSecondaryTarget_Riding.C_RotateToSecondaryTarget_Riding",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "riding",
+        "rotatetosecondarytarget"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "7e11547d15c6ce9ffdc890e4",
+      "name": "Pitch To Transform Curves Wingardium",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Wingardium.DA_PitchToTransformCurves_Wingardium",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "pitchtotransformcurves",
+        "wingardium"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "73a89e1ff3b748c852f4fca7",
+      "name": "Enemy Intro Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_EnemyIntro_StackSettings.DA_EnemyIntro_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "enemyintro",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "727c87394fed0307735c0477",
+      "name": "Flying Key Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_FlyingKeyCamera_StackSettings.DA_FlyingKeyCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "flyingkeycamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "743cc13607e06796d50dcaa4",
+      "name": "Wingardium Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_WingardiumCamera_StackSettings.DA_WingardiumCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings",
+        "wingardiumcamera"
+      ],
+      "properties": {}
+    }
+  ]
+}

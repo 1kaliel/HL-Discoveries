@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "3f6ff58e17ad88bd6e6df8de",
+      "name": "Add Arm Length Mount Idle Break",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddArmLength_MountIdleBreak.BP_AddArmLength_MountIdleBreak",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addarmlength",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mountidlebreak"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "337a4420f1bc291ba893aa73",
+      "name": "Add Camera Space Translation Mount Charge",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddCameraSpaceTranslation_MountCharge.BP_AddCameraSpaceTranslation_MountCharge",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addcameraspacetranslation",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mountcharge"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "39d2393baf72a545b1bf2637",
+      "name": "Add Camera Space Translation Swimming Open Space",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddCameraSpaceTranslation_Swimming_OpenSpace.BP_AddCameraSpaceTranslation_Swimming_OpenSpace",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addcameraspacetranslation",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "openspace",
+        "swimming"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "38c17e1c76dba04e381fe8b4",
+      "name": "Lag Broom Dismount",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_BroomDismount.BP_Lag_BroomDismount",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "broomdismount",
+        "camera",
+        "camera.asset",
+        "data",
+        "lag"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3dcbbf8c9bf6f60248b94c7e",
+      "name": "Lag Climbing Up",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_ClimbingUp.BP_Lag_ClimbingUp",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "climbingup",
+        "data",
+        "lag"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "383f2572baa4826d4e1bcf30",
+      "name": "Look At Target Soft Pitch Only",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAtTarget_SoftPitchOnly.BP_LookAtTarget_SoftPitchOnly",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lookattarget",
+        "softpitchonly"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3b8247861ebb33e44089f436",
+      "name": "Pitch Limits Falling",
+      "path": "/Game/Data/Camera/Behaviors/BP_PitchLimits_Falling.BP_PitchLimits_Falling",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "falling",
+        "pitchlimits"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3e6f4792aae3e706fbf2714f",
+      "name": "Rotation Lag Default",
+      "path": "/Game/Data/Camera/Behaviors/BP_RotationLag_Default.BP_RotationLag_Default",
+      "kind": "camera.asset",
+      "assetClass": "ObjectRedirector",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "default",
+        "rotationlag"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3c05eff18c447f5ef4fb423b",
+      "name": "C Look At Pitch To Pitch Speed Falling",
+      "path": "/Game/Data/Camera/Curves/C_LookAt_PitchToPitchSpeed_Falling.C_LookAt_PitchToPitchSpeed_Falling",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "falling",
+        "lookat",
+        "pitchtopitchspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "327fe86bbfa67c24ac492c79",
+      "name": "C Look At Yaw To Yaw Speed Look Ahead Tight",
+      "path": "/Game/Data/Camera/Curves/C_LookAt_YawToYawSpeed_LookAhead_Tight.C_LookAt_YawToYawSpeed_LookAhead_Tight",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "lookahead",
+        "lookat",
+        "tight",
+        "yawtoyawspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3b12a4d59cee3d2751b8d9a3",
+      "name": "C Pitch To Focal Length Default",
+      "path": "/Game/Data/Camera/Curves/C_PitchToFocalLength_Default.C_PitchToFocalLength_Default",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "default",
+        "pitchtofocallength"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3bd56e03cad637759c087b25",
+      "name": "Pitch To Transform Curves Medium Interiors",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Medium_Interiors.DA_PitchToTransformCurves_Medium_Interiors",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "interiors",
+        "medium",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3aa848d397654cff7cfe4255",
+      "name": "UI BP Camera Fading Button Cell Widget",
+      "path": "/Game/Data/Camera/Editor/CollisionTools/UI_BP_CameraFadingButtonCellWidget.UI_BP_CameraFadingButtonCellWidget",
+      "kind": "camera.asset",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "camerafadingbuttoncellwidget",
+        "collisiontools",
+        "data",
+        "editor",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "398f778a6ed274c8222a344e",
+      "name": "UI BP Camera Rule Of Thirds",
+      "path": "/Game/Data/Camera/Editor/UI_BP_CameraRuleOfThirds.UI_BP_CameraRuleOfThirds",
+      "kind": "camera.asset",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "cameraruleofthirds",
+        "data",
+        "editor",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3c93d5fa7561fd2aac693e02",
+      "name": "FL Phoenix Camera BPLibrary",
+      "path": "/Game/Data/Camera/FL_PhoenixCameraBPLibrary.FL_PhoenixCameraBPLibrary",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "fl",
+        "phoenixcamerabplibrary"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3a35c87acbc1703e8eb861db",
+      "name": "Cine User Controlled Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/Cinematic/DA_CineUserControlled_StackSettings.DA_CineUserControlled_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "cinematic",
+        "cineusercontrolled",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    }
+  ]
+}

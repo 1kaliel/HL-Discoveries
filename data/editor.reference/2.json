@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "27cb9828a36c53437a53d47a",
+      "name": "MPMC Gear Icons",
+      "path": "/Game/Editors/GearIconMaker/Blueprints/MPMC_GearIcons.MPMC_GearIcons",
+      "kind": "editor.reference",
+      "assetClass": "MoviePipelineMasterConfig",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "geariconmaker",
+        "gearicons",
+        "mpmc"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "24fc67faac82e987f7632887",
+      "name": "M Model Viewer Color Capture",
+      "path": "/Game/Editors/ModelViewer/Materials/M_ModelViewer_ColorCapture.M_ModelViewer_ColorCapture",
+      "kind": "editor.reference",
+      "assetClass": "Material",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "colorcapture",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "materials",
+        "modelviewer"
+      ],
+      "properties": {}
+    }
+  ]
+}

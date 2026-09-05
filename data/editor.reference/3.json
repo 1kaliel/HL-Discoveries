@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "35ae8636ee2ddd380950c6bb",
+      "name": "UI BP Gear Icon Maker",
+      "path": "/Game/Editors/GearIconMaker/UI/UI_BP_GearIconMaker.UI_BP_GearIconMaker",
+      "kind": "editor.reference",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "geariconmaker",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "33ad0d4883de13c6457130fb",
+      "name": "LVL Icon Lights",
+      "path": "/Game/Editors/ModelViewer/Layouts/Icon/LVL_IconLights.LVL_IconLights",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "icon",
+        "iconlights",
+        "layouts",
+        "lvl",
+        "modelviewer",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "3d73403eeba6934355e59ceb",
+      "name": "LVL Model Viewer Presentation Layout",
+      "path": "/Game/Editors/ModelViewer/Layouts/Presentation/LVL_ModelViewer_PresentationLayout.LVL_ModelViewer_PresentationLayout",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "layouts",
+        "lvl",
+        "modelviewer",
+        "presentation",
+        "presentationlayout",
+        "world"
+      ],
+      "properties": {}
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "ff5ea514c35e963c09cad3e8",
+      "name": "Add Camera Space Translation Open Space",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddCameraSpaceTranslation_OpenSpace.BP_AddCameraSpaceTranslation_OpenSpace",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addcameraspacetranslation",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "openspace"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "fdd8003a82abc1738cecfeca",
+      "name": "Add Target Offset Swimming2",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddTargetOffset_Swimming2.BP_AddTargetOffset_Swimming2",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addtargetoffset",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "swimming2"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f590c1cf09da8940520357fd",
+      "name": "Lag During Camera Input",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_DuringCameraInput.BP_Lag_DuringCameraInput",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "duringcamerainput",
+        "lag"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f0254e663e76ae67d91d7e44",
+      "name": "Look At Mount Predicted Trajectory",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAt_MountPredictedTrajectory.BP_LookAt_MountPredictedTrajectory",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lookat",
+        "mountpredictedtrajectory"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "fdbee8aa2090ec31ed04789c",
+      "name": "Move To Ragdoll COM Biped",
+      "path": "/Game/Data/Camera/Behaviors/BP_MoveToRagdollCOM_Biped.BP_MoveToRagdollCOM_Biped",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "biped",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "movetoragdollcom"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f870e48444494e941a325951",
+      "name": "Pitch To Focal Length Aiming",
+      "path": "/Game/Data/Camera/Behaviors/BP_PitchToFocalLength_Aiming.BP_PitchToFocalLength_Aiming",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "aiming",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "pitchtofocallength"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f457f4d4ec715596a5be5936",
+      "name": "Rotate Toward Secondary Target Mount",
+      "path": "/Game/Data/Camera/Behaviors/BP_RotateTowardSecondaryTarget_Mount.BP_RotateTowardSecondaryTarget_Mount",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mount",
+        "rotatetowardsecondarytarget"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f4454af675872b3bc2c1bec7",
+      "name": "Set Arm Length Tight Interior",
+      "path": "/Game/Data/Camera/Behaviors/BP_SetArmLength_TightInterior.BP_SetArmLength_TightInterior",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "setarmlength",
+        "tightinterior"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f6ccac2fe6b9ea692fadc932",
+      "name": "Velocity Pitch Mount Falling",
+      "path": "/Game/Data/Camera/Behaviors/BP_VelocityPitch_MountFalling.BP_VelocityPitch_MountFalling",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mountfalling",
+        "velocitypitch"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f5cd3cac18f66c4d66abcde7",
+      "name": "C Look At Yaw To Yaw Speed Broom Flight",
+      "path": "/Game/Data/Camera/Curves/C_LookAt_YawToYawSpeed_BroomFlight.C_LookAt_YawToYawSpeed_BroomFlight",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "broomflight",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "lookat",
+        "yawtoyawspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f7c0c3bb8d481f28c6554660",
+      "name": "Pitch To Transform Curves Graphorn",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Graphorn.DA_PitchToTransformCurves_Graphorn",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "graphorn",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "fa6f153dbc674aaf092a1918",
+      "name": "Pitch To Transform Curves Graphorn Wide",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_GraphornWide.DA_PitchToTransformCurves_GraphornWide",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "graphornwide",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "fbbc6c68b0aa6d4705d0005b",
+      "name": "Pitch To Transform Curves Hippogriff Take Off",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_HippogriffTakeOff.DA_PitchToTransformCurves_HippogriffTakeOff",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "hippogrifftakeoff",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ff25e6a955aeb05027f8276e",
+      "name": "Broom Hover Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_BroomHoverCamera_StackSettings.DA_BroomHoverCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "broomhovercamera",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f890d26df6beac27b1c2e561",
+      "name": "Ladder Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_LadderCamera_StackSettings.DA_LadderCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "laddercamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "fb6f2441d3822bfd5adca50e",
+      "name": "Sliding Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_Sliding_StackSettings.DA_Sliding_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "sliding",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "f93c3a3e21bdcd3ac1ee9725",
+      "name": "Stationary Transformation Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_StationaryTransformationCamera_StackSettings.DA_StationaryTransformationCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings",
+        "stationarytransformationcamera"
+      ],
+      "properties": {}
+    }
+  ]
+}

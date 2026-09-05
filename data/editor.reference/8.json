@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "882b9b24f3cf25340d8a4197",
+      "name": "Character360 Fig",
+      "path": "/Game/Editors/Character360/Backgrounds/Character360_Fig.Character360_Fig",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "backgrounds",
+        "character360",
+        "editor.reference",
+        "editors",
+        "fig",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8d72255cc7ed9dbc22c72dfb",
+      "name": "Character360 Ranrak",
+      "path": "/Game/Editors/Character360/Backgrounds/Character360_Ranrak.Character360_Ranrak",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "backgrounds",
+        "character360",
+        "editor.reference",
+        "editors",
+        "ranrak",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "85d86996251a95a79e2e7ed6",
+      "name": "Model Viewer Game Mode",
+      "path": "/Game/Editors/ModelViewer/Blueprints/BP_ModelViewer_GameMode.BP_ModelViewer_GameMode",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "gamemode",
+        "modelviewer"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "8f1ea25679923352a16ab6ed",
+      "name": "Search",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Search.UI_T_Search",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "search",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

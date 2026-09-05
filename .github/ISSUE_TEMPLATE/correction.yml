@@ -1,0 +1,17 @@
+name: Correction
+description: Correct a path, property, attribution or compatibility claim.
+title: "[Correction] "
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record ID, path or documentation link
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction and evidence
+      description: Include the tested build when reporting different runtime behavior.
+    validations:
+      required: true

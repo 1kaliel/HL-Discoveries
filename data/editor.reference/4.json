@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "4118175f8363f8ccd53cf48e",
+      "name": "Character360 Black Female",
+      "path": "/Game/Editors/Character360/Backgrounds/Character360_BlackFemale.Character360_BlackFemale",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "backgrounds",
+        "blackfemale",
+        "character360",
+        "editor.reference",
+        "editors",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "44992c7d55391214d301e9d1",
+      "name": "Model Viewer Placeholder Repeater",
+      "path": "/Game/Editors/ModelViewer/Blueprints/BP_ModelViewer_PlaceholderRepeater.BP_ModelViewer_PlaceholderRepeater",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "modelviewer",
+        "placeholderrepeater"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "4bc3872d4633de1b8d0a32ec",
+      "name": "Remove",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Remove.UI_T_Remove",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "remove",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "46b275c58c0d251dd22f405e",
+      "name": "Render",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Render.UI_T_Render",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "render",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

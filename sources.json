@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "ck-1404437",
+      "name": "Hogwarts Legacy Creator Kit",
+      "buildId": "1404437",
+      "unrealVersion": "4.27.2",
+      "observedAt": "2026-09-04",
+      "methods": [
+        "filesystem-discovery",
+        "unreal-asset-registry",
+        "read-only-asset-property-inspection"
+      ],
+      "notes": "Coverage is partial. Not every record has registry or property inspection. No game binaries are included."
+    }
+  ]
+}

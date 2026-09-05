@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "6c672e37ef13d6315696cd45",
+      "name": "Character360 White Female",
+      "path": "/Game/Editors/Character360/Backgrounds/Character360_WhiteFemale.Character360_WhiteFemale",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "backgrounds",
+        "character360",
+        "editor.reference",
+        "editors",
+        "whitefemale",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6d2a5327e06277d4e3f28ac1",
+      "name": "Gear Icon Maker Neck",
+      "path": "/Game/Editors/GearIconMaker/Scenes/GearIconMaker_Neck.GearIconMaker_Neck",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "geariconmaker",
+        "neck",
+        "scenes",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "655aa1b46566c35c02405845",
+      "name": "Model Viewer Interface",
+      "path": "/Game/Editors/ModelViewer/Blueprints/BP_ModelViewer_Interface.BP_ModelViewer_Interface",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "interface",
+        "modelviewer"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "6b5d93d7b894551089e264bb",
+      "name": "Model Viewer Icon Layout Save Game",
+      "path": "/Game/Editors/ModelViewer/Layouts/Icon/BP_ModelViewer_IconLayout_SaveGame.BP_ModelViewer_IconLayout_SaveGame",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "icon",
+        "iconlayout",
+        "layouts",
+        "modelviewer",
+        "savegame"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "605419f53dd2f7bcd2cdf31a",
+      "name": "UI BP Registry IDCombo Item",
+      "path": "/Game/Editors/ModelViewer/UI/UI_BP_RegistryIDComboItem.UI_BP_RegistryIDComboItem",
+      "kind": "editor.reference",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "modelviewer",
+        "registryidcomboitem",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

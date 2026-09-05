@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "title": "Food and ingredient discovery",
+  "assetIds": [
+    "a1ed54c153edfd9a6f50c115",
+    "c175e04cd0c921bd4f112c72",
+    "e5870a768e07f28027bbbd38",
+    "efc691e3d7b8c11d0b6ff4d2",
+    "96a7e6485a6d9e95e57dad47",
+    "131d824c7e53f644bc5b10b3",
+    "5b0b0a66f6ce30d83a76e18d",
+    "6496e7f2c263bd164ec7db2e"
+  ],
+  "guide": "guides/items.md"
+}

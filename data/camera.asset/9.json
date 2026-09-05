@@ -1,0 +1,504 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "9674ebbcd3a88b5c278314f0",
+      "name": "Ambient Cam Anim Idle",
+      "path": "/Game/Data/Camera/Behaviors/AmbientMovement/BP_AmbientCamAnim_Idle.BP_AmbientCamAnim_Idle",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "ambientcamanim",
+        "ambientmovement",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "idle"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "954ae66ab16e46547468a25e",
+      "name": "Add Camera Space Translation Look At",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddCameraSpaceTranslation_LookAt.BP_AddCameraSpaceTranslation_LookAt",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addcameraspacetranslation",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lookat"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "99fce32992e57d2bbad9ef5e",
+      "name": "Input To Yaw Mount Gallop",
+      "path": "/Game/Data/Camera/Behaviors/BP_InputToYaw_MountGallop.BP_InputToYaw_MountGallop",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "inputtoyaw",
+        "mountgallop"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "93272d1f0a7bcdd8278c619c",
+      "name": "Lag Default",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_Default.BP_Lag_Default",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "default",
+        "lag"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "90f3d2a233a220986e96fa21",
+      "name": "Look Ahead Graphorn",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAhead_Graphorn.BP_LookAhead_Graphorn",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "graphorn",
+        "lookahead"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "95030f0f9fc4f0f4f2acc517",
+      "name": "Look At Target Soft",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAtTarget_Soft.BP_LookAtTarget_Soft",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lookattarget",
+        "soft"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "930d1905eeed466c35c1b7ee",
+      "name": "Look At Target Strong Over The Shoulder",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAtTarget_StrongOverTheShoulder.BP_LookAtTarget_StrongOverTheShoulder",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lookattarget",
+        "strongovertheshoulder"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "9980ef6043872fbdbb040e3c",
+      "name": "BB Camera",
+      "path": "/Game/Data/Camera/BehaviorTree/BB_Camera.BB_Camera",
+      "kind": "camera.asset",
+      "assetClass": "BlackboardData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bb",
+        "behaviortree",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "93112eeeb676f3970cd4a4f4",
+      "name": "C Enemy Intro Distance To Yaw",
+      "path": "/Game/Data/Camera/Curves/C_EnemyIntro_DistanceToYaw.C_EnemyIntro_DistanceToYaw",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "distancetoyaw",
+        "enemyintro"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "969a4623119bc9897cab66cb",
+      "name": "C Input Pitch To Pitch Speed Negative",
+      "path": "/Game/Data/Camera/Curves/C_InputPitchToPitchSpeedNegative.C_InputPitchToPitchSpeedNegative",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "inputpitchtopitchspeednegative"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "965a7e6ea1a86d6e8ce2dbc4",
+      "name": "C Look At Yaw To Yaw Speed Default Third Person v2",
+      "path": "/Game/Data/Camera/Curves/C_LookAt_YawToYawSpeed_DefaultThirdPerson_v2.C_LookAt_YawToYawSpeed_DefaultThirdPerson_v2",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "defaultthirdperson",
+        "lookat",
+        "v2",
+        "yawtoyawspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "9832e86b5b6d237839c8d01f",
+      "name": "C Soft Reset Ease Curve",
+      "path": "/Game/Data/Camera/Curves/C_SoftResetEaseCurve.C_SoftResetEaseCurve",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "softreseteasecurve"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "9c156658fb0d9e1786926214",
+      "name": "Pitch To Transform Curves Default",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Default.DA_PitchToTransformCurves_Default",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "default",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "9970529b8930c1efacb076fb",
+      "name": "Pitch To Transform Curves Swimming",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Swimming.DA_PitchToTransformCurves_Swimming",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "pitchtotransformcurves",
+        "swimming"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "94fedcc26cc59ddab61b0302",
+      "name": "Pitch To Transform Curves Transformation Stationary",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_TransformationStationary.DA_PitchToTransformCurves_TransformationStationary",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "pitchtotransformcurves",
+        "transformationstationary"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "912cff6d0f83b0c959695cea",
+      "name": "Enable Match Floor Rotation Preset",
+      "path": "/Game/Data/Camera/Presets/DA_EnableMatchFloorRotation_Preset.DA_EnableMatchFloorRotation_Preset",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackVolumePreset",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "enablematchfloorrotation",
+        "preset",
+        "presets"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "944c79e4c2eecfb70c2c16ed",
+      "name": "Biome Transition Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_BiomeTransitionCamera_StackSettings.DA_BiomeTransitionCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "biometransitioncamera",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "9feb3490d1f50cb9eb4e630c",
+      "name": "Creature Interaction Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_CreatureInteractionCamera_StackSettings.DA_CreatureInteractionCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "creatureinteractioncamera",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "9fae842376b912fa6cd1b21a",
+      "name": "Enemy Intro Stack Settings Tomb Protector",
+      "path": "/Game/Data/Camera/Stacks/DA_EnemyIntro_StackSettings_TombProtector.DA_EnemyIntro_StackSettings_TombProtector",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "enemyintro",
+        "stacks",
+        "stacksettings",
+        "tombprotector"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "93c98f73aad45e8afe15115d",
+      "name": "Graphorn Pressure Plate Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_GraphornPressurePlateCamera_StackSettings.DA_GraphornPressurePlateCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "graphornpressureplatecamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "93801de66b42a1d41df04c34",
+      "name": "Herbology Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_HerbologyCamera_StackSettings.DA_HerbologyCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "herbologycamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "9113b4fecbf2a6edf96bafae",
+      "name": "Hippogriff Dismounting Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_HippogriffDismounting_StackSettings.DA_HippogriffDismounting_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "hippogriffdismounting",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "98887cb13432884502ffadca",
+      "name": "Requested Camera Animation Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_RequestedCameraAnimation_StackSettings.DA_RequestedCameraAnimation_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "requestedcameraanimation",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "966f4b6832b9d2c3e01cd880",
+      "name": "UI BP Aspect Ratio Widget",
+      "path": "/Game/Data/Camera/UI_BP_AspectRatioWidget.UI_BP_AspectRatioWidget",
+      "kind": "camera.asset",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "aspectratiowidget",
+        "bp",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

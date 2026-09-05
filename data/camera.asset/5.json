@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "5a3dbfecfc1656cfa9ae978f",
+      "name": "Add Rotation",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddRotation.BP_AddRotation",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addrotation",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "58d941220ff38f2b04cb9c21",
+      "name": "Look At Aim Mode Aim Transition",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAt_AimModeAimTransition.BP_LookAt_AimModeAimTransition",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "aimmodeaimtransition",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lookat"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "578920729a543e1710135cee",
+      "name": "Pitch To Transform Curves Default",
+      "path": "/Game/Data/Camera/Behaviors/BP_PitchToTransformCurves_Default.BP_PitchToTransformCurves_Default",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "default",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "5f9f626bbecfac2a7d8672a2",
+      "name": "Pitch To Transform Curves Mount Fall",
+      "path": "/Game/Data/Camera/Behaviors/BP_PitchToTransformCurves_MountFall.BP_PitchToTransformCurves_MountFall",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mountfall",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "507a208adae81aa6cecff0fd",
+      "name": "BT Camera Look At",
+      "path": "/Game/Data/Camera/BehaviorTree/BT_Camera_LookAt.BT_Camera_LookAt",
+      "kind": "camera.asset",
+      "assetClass": "BehaviorTree",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "bt",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "lookat"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "569e02f9eec1cdcadbabddc4",
+      "name": "BTT Camera Smooth Out Broom Dismount",
+      "path": "/Game/Data/Camera/BehaviorTree/Tasks/BTT_Camera_SmoothOutBroomDismount.BTT_Camera_SmoothOutBroomDismount",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "btt",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "smoothoutbroomdismount",
+        "tasks"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "540d5cf6f2d17e1905cb4d32",
+      "name": "Scene Rig Camera Stack Actor",
+      "path": "/Game/Data/Camera/BP_SceneRigCameraStackActor.BP_SceneRigCameraStackActor",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "scenerigcamerastackactor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "5c8ba9156e0c17aacb4ee711",
+      "name": "C Look At Yaw To Yaw Speed Look Ahead",
+      "path": "/Game/Data/Camera/Curves/C_LookAt_YawToYawSpeed_LookAhead.C_LookAt_YawToYawSpeed_LookAhead",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "lookahead",
+        "lookat",
+        "yawtoyawspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "52781a91bec0d2a863bed5e3",
+      "name": "Camera Collision Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/Cinematic/DA_CameraCollision_StackSettings.DA_CameraCollision_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameracollision",
+        "cameradata",
+        "cinematic",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "5d0239d2ad2f564bbd4e550f",
+      "name": "Hippogriff Flight Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_HippogriffFlightCamera_StackSettings.DA_HippogriffFlightCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "hippogriffflightcamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "571dbefeed51509f2fa3e4aa",
+      "name": "Scene Rig Gear Vendor Preview Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_SceneRigGearVendorPreviewCamera_StackSettings.DA_SceneRigGearVendorPreviewCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "sceneriggearvendorpreviewcamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "53a772676679536ac036357e",
+      "name": "Spell Minigame Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_SpellMinigameCamera_StackSettings.DA_SpellMinigameCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "spellminigamecamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    }
+  ]
+}

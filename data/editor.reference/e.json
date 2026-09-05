@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "ee456122080e72cfa231cc25",
+      "name": "DT Gear Level Overrides",
+      "path": "/Game/Editors/GearIconMaker/Blueprints/DT_GearLevelOverrides.DT_GearLevelOverrides",
+      "kind": "editor.reference",
+      "assetClass": "DataTable",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "dt",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "geariconmaker",
+        "gearleveloverrides"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e07c70c4a29a7584a66b2137",
+      "name": "Gear Icon Maker Back",
+      "path": "/Game/Editors/GearIconMaker/Scenes/GearIconMaker_Back.GearIconMaker_Back",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "back",
+        "editor.reference",
+        "editors",
+        "geariconmaker",
+        "scenes",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ee47b489d18e8f3fa26995ad",
+      "name": "Gear Icon Maker Outfit",
+      "path": "/Game/Editors/GearIconMaker/Scenes/GearIconMaker_Outfit.GearIconMaker_Outfit",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "geariconmaker",
+        "outfit",
+        "scenes",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ea0b38700ba3a54752e16e8b",
+      "name": "Image Background",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_ImageBackground.UI_T_ImageBackground",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "imagebackground",
+        "images",
+        "modelviewer",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "e2ddc6c9b6b6d650586caa23",
+      "name": "DT Model Viewer Layouts",
+      "path": "/Game/Editors/ModelViewer/Layouts/DT_ModelViewer_Layouts.DT_ModelViewer_Layouts",
+      "kind": "editor.reference",
+      "assetClass": "DataTable",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "dt",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "layouts",
+        "modelviewer"
+      ],
+      "properties": {}
+    }
+  ]
+}

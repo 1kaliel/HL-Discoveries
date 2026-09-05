@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "09b885e82ab08cf2913f76bf",
+      "name": "Character360 Built Data",
+      "path": "/Game/Editors/Character360/Backgrounds/Character360_BuiltData.Character360_BuiltData",
+      "kind": "editor.reference",
+      "assetClass": "MapBuildDataRegistry",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "backgrounds",
+        "builtdata",
+        "character360",
+        "editor.reference",
+        "editorasset",
+        "editors"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "0b63ef17895fc5a547098cd1",
+      "name": "Gear Icon Maker",
+      "path": "/Game/Editors/GearIconMaker/Sequences/SEQ_GearIconMaker.SEQ_GearIconMaker",
+      "kind": "editor.reference",
+      "assetClass": "LevelSequence",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "geariconmaker",
+        "seq",
+        "sequences"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "03986917e0ca99e5133c3b71",
+      "name": "Model Viewer Pawn",
+      "path": "/Game/Editors/ModelViewer/Blueprints/BP_ModelViewer_Pawn.BP_ModelViewer_Pawn",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "modelviewer",
+        "pawn"
+      ],
+      "properties": {}
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "cd5bd4ca6df220c8cc096e4f",
+      "name": "ABP Troll Post Process",
+      "path": "/Game/RiggedObjects/Characters/Creatures/Troll/ABP_Troll_PostProcess.ABP_Troll_PostProcess",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "AnimBlueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "abp",
+        "animblueprint",
+        "blueprint.reference",
+        "characters",
+        "creatures",
+        "postprocess",
+        "riggedobjects",
+        "troll"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c8d88e9b05bb4c1ac412252e",
+      "name": "ABP Animagus Wolf",
+      "path": "/Game/RiggedObjects/Characters/Creatures/Wolves/Animagus_Wolf/ABP_Animagus_Wolf.ABP_Animagus_Wolf",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "AnimBlueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "abp",
+        "animagus",
+        "animblueprint",
+        "blueprint.reference",
+        "characters",
+        "creatures",
+        "riggedobjects",
+        "wolf",
+        "wolves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cfbc5705e3c36a3baf2853b3",
+      "name": "ABP M CMB Big Business PP",
+      "path": "/Game/RiggedObjects/Characters/Human/Clothing/Combined_M/BigBusiness/ABP_M_CMB_BigBusiness_PP.ABP_M_CMB_BigBusiness_PP",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "AnimBlueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "abp",
+        "animblueprint",
+        "bigbusiness",
+        "blueprint.reference",
+        "characters",
+        "clothing",
+        "cmb",
+        "combined",
+        "human",
+        "pp",
+        "riggedobjects"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cf9ba94ee71f3fdaea631a8c",
+      "name": "ABP HUM F Hat Wizard Poorboy Master",
+      "path": "/Game/RiggedObjects/Characters/Human/Clothing/Hat_F/WizardPoorboy/ABP_HUM_F_Hat_WizardPoorboy_Master.ABP_HUM_F_Hat_WizardPoorboy_Master",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "AnimBlueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "abp",
+        "animblueprint",
+        "blueprint.reference",
+        "characters",
+        "clothing",
+        "hat",
+        "hum",
+        "human",
+        "master",
+        "riggedobjects",
+        "wizardpoorboy"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cc80a7bdc9ce021dfd664705",
+      "name": "ABP M Hat Extortion Hat01 Master",
+      "path": "/Game/RiggedObjects/Characters/Human/Clothing/Hat_M/Extortion01/ABP_M_Hat_ExtortionHat01_Master.ABP_M_Hat_ExtortionHat01_Master",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "AnimBlueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "abp",
+        "animblueprint",
+        "blueprint.reference",
+        "characters",
+        "clothing",
+        "extortion01",
+        "extortionhat01",
+        "hat",
+        "human",
+        "master",
+        "riggedobjects"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c294567748a9023f8aed5106",
+      "name": "ABP Goblin Drill",
+      "path": "/Game/RiggedObjects/Environments/GoblinDrill/ABP_GoblinDrill.ABP_GoblinDrill",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "AnimBlueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "abp",
+        "animblueprint",
+        "blueprint.reference",
+        "environments",
+        "goblindrill",
+        "riggedobjects"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cd6cb73c9e3102093bc2dc41",
+      "name": "HW Gorgon Painting",
+      "path": "/Game/RiggedObjects/Environments/Hogwarts/props/BP_HW_GorgonPainting.BP_HW_GorgonPainting",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "Blueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "blueprint.reference",
+        "bp",
+        "environments",
+        "gorgonpainting",
+        "hogwarts",
+        "hw",
+        "props",
+        "riggedobjects"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c30537de19b7965ff1fe4ad5",
+      "name": "Guardian Leviosa Statue",
+      "path": "/Game/RiggedObjects/Environments/Hogwarts/Statues/Guardian_Leviosa_Statue/BP_Guardian_Leviosa_Statue.BP_Guardian_Leviosa_Statue",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "Blueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "blueprint.reference",
+        "bp",
+        "environments",
+        "guardian",
+        "hogwarts",
+        "leviosa",
+        "riggedobjects",
+        "statue",
+        "statues"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c6761de51d361fd64e2a13eb",
+      "name": "HW Ravenclaw Armor",
+      "path": "/Game/RiggedObjects/Environments/Hogwarts/Statues/RavenclawArmor/BP_HW_RavenclawArmor.BP_HW_RavenclawArmor",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "Blueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "blueprint.reference",
+        "bp",
+        "environments",
+        "hogwarts",
+        "hw",
+        "ravenclawarmor",
+        "riggedobjects",
+        "statues"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c5667f81f6c346aac08acc05",
+      "name": "ABP Jack In The Box PP",
+      "path": "/Game/RiggedObjects/Environments/Zonkos/JackInTheBox/ABP_JackInTheBox_PP.ABP_JackInTheBox_PP",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "AnimBlueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "abp",
+        "animblueprint",
+        "blueprint.reference",
+        "environments",
+        "jackinthebox",
+        "pp",
+        "riggedobjects",
+        "zonkos"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c196a3ab4aa75f76dddc6939",
+      "name": "Sorting Hat Character",
+      "path": "/Game/RiggedObjects/Props/SortingHat/BP_SortingHat_Character.BP_SortingHat_Character",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "Blueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "blueprint.reference",
+        "bp",
+        "character",
+        "props",
+        "riggedobjects",
+        "sortinghat"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c2f6115ea25c38c3448d871b",
+      "name": "ABP World Events Magic Kite Battle Badger",
+      "path": "/Game/RiggedObjects/Props/World_Events/MagicKiteBattle/ABP_World_Events_MagicKiteBattle_Badger.ABP_World_Events_MagicKiteBattle_Badger",
+      "kind": "blueprint.reference",
+      "assetClass": null,
+      "classHint": "AnimBlueprint",
+      "evidence": "filesystem",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "abp",
+        "animblueprint",
+        "badger",
+        "blueprint.reference",
+        "events",
+        "magickitebattle",
+        "props",
+        "riggedobjects",
+        "world"
+      ],
+      "properties": {}
+    }
+  ]
+}

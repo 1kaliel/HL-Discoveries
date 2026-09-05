@@ -1,0 +1,484 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "ab6b7f6b565258f7159a8cc5",
+      "name": "Animation Sequence Additive Base",
+      "path": "/Game/Data/Camera/Behaviors/BP_AnimationSequence_AdditiveBase.BP_AnimationSequence_AdditiveBase",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "additivebase",
+        "animationsequence",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a21486185e4662fc5e30550b",
+      "name": "Cross Blend Open Space",
+      "path": "/Game/Data/Camera/Behaviors/BP_CrossBlend_OpenSpace.BP_CrossBlend_OpenSpace",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "crossblend",
+        "data",
+        "openspace"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ac48d46db541db25bbe0b3fb",
+      "name": "Input To Yaw Hippogriff Flight Hover",
+      "path": "/Game/Data/Camera/Behaviors/BP_InputToYaw_HippogriffFlight_Hover.BP_InputToYaw_HippogriffFlight_Hover",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "hippogriffflight",
+        "hover",
+        "inputtoyaw"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a7ff50a35edad93e4a2805bc",
+      "name": "Pitch To Transform Curves Mount Charge",
+      "path": "/Game/Data/Camera/Behaviors/BP_PitchToTransformCurves_MountCharge.BP_PitchToTransformCurves_MountCharge",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mountcharge",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a24be212710d9a8b9135a2b3",
+      "name": "Set Arm Length Mount Graphorn Falling",
+      "path": "/Game/Data/Camera/Behaviors/BP_SetArmLength_MountGraphornFalling.BP_SetArmLength_MountGraphornFalling",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mountgraphornfalling",
+        "setarmlength"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a403e0f3cc62939c6d84e19a",
+      "name": "User Input Default",
+      "path": "/Game/Data/Camera/Behaviors/BP_UserInput_Default.BP_UserInput_Default",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "default",
+        "userinput"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "aa4a6a5643d3ee441b17a98f",
+      "name": "User Nudging Input Default",
+      "path": "/Game/Data/Camera/Behaviors/BP_UserNudgingInput_Default.BP_UserNudgingInput_Default",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "default",
+        "usernudginginput"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a11a5ece4dd327b6a9f5bf91",
+      "name": "BT Camera Broom Free Roam",
+      "path": "/Game/Data/Camera/BehaviorTree/BT_Camera_BroomFreeRoam.BT_Camera_BroomFreeRoam",
+      "kind": "camera.asset",
+      "assetClass": "BehaviorTree",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "broomfreeroam",
+        "bt",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a3121cf5cdddc95e38f0d9ce",
+      "name": "Mount Camera Stack Actor",
+      "path": "/Game/Data/Camera/BP_MountCameraStackActor.BP_MountCameraStackActor",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "mountcamerastackactor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a143d26f6529d115956fa7ca",
+      "name": "Third Person Camera Stack Actor",
+      "path": "/Game/Data/Camera/BP_ThirdPersonCameraStackActor.BP_ThirdPersonCameraStackActor",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "thirdpersoncamerastackactor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ac17a447524a2919e770f394",
+      "name": "UICamera Stack Actor",
+      "path": "/Game/Data/Camera/BP_UICameraStackActor.BP_UICameraStackActor",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "uicamerastackactor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a295b0db8f2b8229bed1c813",
+      "name": "C Input Angle To Yaw Speed Riding Gallop",
+      "path": "/Game/Data/Camera/Curves/C_InputAngleToYawSpeed_RidingGallop.C_InputAngleToYawSpeed_RidingGallop",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "inputangletoyawspeed",
+        "ridinggallop"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a231d472a0b0d27371632ae7",
+      "name": "Pitch To Transform Curves Creature Capture",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_CreatureCapture.DA_PitchToTransformCurves_CreatureCapture",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "creaturecapture",
+        "curves",
+        "da",
+        "data",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a2de51b72c64dee84c0f552f",
+      "name": "Pitch To Transform Curves Medium Target",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_MediumTarget.DA_PitchToTransformCurves_MediumTarget",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "mediumtarget",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a77be222f9f8d9bf527616ce",
+      "name": "DEPRECATED Enable Point Of Interests Preset",
+      "path": "/Game/Data/Camera/Presets/DA_DEPRECATED_EnablePointOfInterests_Preset.DA_DEPRECATED_EnablePointOfInterests_Preset",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackVolumePreset",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "deprecated",
+        "enablepointofinterests",
+        "preset",
+        "presets"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a3de8d6de09b46bd8b947d33",
+      "name": "Broom Spline Flight Camera Stack Settings Automation",
+      "path": "/Game/Data/Camera/Stacks/DA_BroomSplineFlightCamera_StackSettings_Automation.DA_BroomSplineFlightCamera_StackSettings_Automation",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "automation",
+        "broomsplineflightcamera",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a34d791cfd3f7b5134cf7597",
+      "name": "DEPRECATED Default Animagus Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_DEPRECATED_DefaultAnimagusCamera_StackSettings.DA_DEPRECATED_DefaultAnimagusCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "defaultanimaguscamera",
+        "deprecated",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a0f0d4f62b490ece3e27dcfa",
+      "name": "Graphorn Mounting To Standing Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_GraphornMountingToStanding_StackSettings.DA_GraphornMountingToStanding_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "graphornmountingtostanding",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "ab705edc0d299e47f0931387",
+      "name": "Hippogriff Mounting To Standing Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_HippogriffMountingToStanding_StackSettings.DA_HippogriffMountingToStanding_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "hippogriffmountingtostanding",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a09dcebed4e70380992e2882",
+      "name": "Mine Cart Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_MineCartCamera_StackSettings.DA_MineCartCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "minecartcamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a00132bcc42809e5e0d0045c",
+      "name": "Ranrok Death Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_RanrokDeath_StackSettings.DA_RanrokDeath_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "ranrokdeath",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a608756a845867f69f99e526",
+      "name": "Totem Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_TotemCamera_StackSettings.DA_TotemCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings",
+        "totemcamera"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "a46e0a3171b0cd98b7a62bd2",
+      "name": "Vendor Preview Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_VendorPreviewCamera_StackSettings.DA_VendorPreviewCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings",
+        "vendorpreviewcamera"
+      ],
+      "properties": {}
+    }
+  ]
+}

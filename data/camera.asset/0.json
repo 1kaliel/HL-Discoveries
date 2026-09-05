@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "030c4e855a046ec3293501ea",
+      "name": "Ambient Cam Idle To Jog",
+      "path": "/Game/Data/Camera/Behaviors/AmbientMovement/BP_AmbientCam_IdleToJog.BP_AmbientCam_IdleToJog",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "ambientcam",
+        "ambientmovement",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "idletojog"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "03cc73a1e8ecbfb637ea2d57",
+      "name": "Add Camera Space Translation Default",
+      "path": "/Game/Data/Camera/Behaviors/BP_AddCameraSpaceTranslation_Default.BP_AddCameraSpaceTranslation_Default",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "addcameraspacetranslation",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "default"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "0afd8ce926d6ea9caddf6f52",
+      "name": "Lag Falling",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_Falling.BP_Lag_Falling",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "falling",
+        "lag"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "0ab894db5dcd4f6768634bf4",
+      "name": "Look At Point Of Interest",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAt_PointOfInterest.BP_LookAt_PointOfInterest",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lookat",
+        "pointofinterest"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "08ff7701d34d72733a4ec8f8",
+      "name": "C Input Angle To Yaw Speed Riding",
+      "path": "/Game/Data/Camera/Curves/C_InputAngleToYawSpeed_Riding.C_InputAngleToYawSpeed_Riding",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "inputangletoyawspeed",
+        "riding"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "079ea500a8be5db4b293a7e8",
+      "name": "C Input Angle To Yaw Speed",
+      "path": "/Game/Data/Camera/Curves/C_InputAngleToYawSpeed.C_InputAngleToYawSpeed",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "inputangletoyawspeed"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "0aeefa2e2b83a7e68da2b039",
+      "name": "C Input Pitch To Pitch Speed Positive",
+      "path": "/Game/Data/Camera/Curves/C_InputPitchToPitchSpeedPositive.C_InputPitchToPitchSpeedPositive",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "inputpitchtopitchspeedpositive"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "0d071266ef69081f9b4a924f",
+      "name": "C Reset Ease Curve",
+      "path": "/Game/Data/Camera/Curves/C_ResetEaseCurve.C_ResetEaseCurve",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "reseteasecurve"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "0d38d96c66c0cd1175f027b2",
+      "name": "Pitch To Transform Curves Crouching",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_Crouching.DA_PitchToTransformCurves_Crouching",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "crouching",
+        "curves",
+        "da",
+        "data",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "0c7e9b7dcd9bdb4fce3de9bf",
+      "name": "Pitch To Transform Curves Graphorn Charge",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_GraphornCharge.DA_PitchToTransformCurves_GraphornCharge",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "graphorncharge",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "06f0a05c69cd4457bd0a784e",
+      "name": "Pitch To Transform Curves Ledge Climb",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_LedgeClimb.DA_PitchToTransformCurves_LedgeClimb",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "ledgeclimb",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "076ad85dfd6359bbabf1d028",
+      "name": "Cine Collision Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/Cinematic/DA_CineCollision_StackSettings.DA_CineCollision_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "cinecollision",
+        "cinematic",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "029cb4861e646ca98cba16ea",
+      "name": "DEPRECATED Niffler Third Person Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_DEPRECATED_NifflerThirdPersonCamera_StackSettings.DA_DEPRECATED_NifflerThirdPersonCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "deprecated",
+        "nifflerthirdpersoncamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "0fe5f56b95ec40b329cd54ce",
+      "name": "Graphorn Third Person Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_GraphornThirdPersonCamera_StackSettings.DA_GraphornThirdPersonCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "graphornthirdpersoncamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "020887b4f3179c1c7edf72d7",
+      "name": "Parry Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_Parry_StackSettings.DA_Parry_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "parry",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    }
+  ]
+}

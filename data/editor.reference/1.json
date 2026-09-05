@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "135be4198bb60a7c0c5c3bee",
+      "name": "Model Viewer Cube",
+      "path": "/Game/Editors/ModelViewer/Blueprints/BP_ModelViewer_Cube.BP_ModelViewer_Cube",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "cube",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "modelviewer"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "18d9e9aeea8a5d2950b91290",
+      "name": "Model Viewer Save Game",
+      "path": "/Game/Editors/ModelViewer/Blueprints/BP_ModelViewer_SaveGame.BP_ModelViewer_SaveGame",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "modelviewer",
+        "savegame"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1f8dd1f9704e51b2269d170b",
+      "name": "Pause",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Pause.UI_T_Pause",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "pause",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1532e8227741b83b6f46b90d",
+      "name": "Refresh",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Refresh.UI_T_Refresh",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "refresh",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

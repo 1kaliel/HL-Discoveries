@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "128b946867f1f744bbfd6331",
+      "name": "Look At Climbing Ledge",
+      "path": "/Game/Data/Camera/Behaviors/BP_LookAt_ClimbingLedge.BP_LookAt_ClimbingLedge",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "climbingledge",
+        "data",
+        "lookat"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1d9a820eaf3815b3e1a035e2",
+      "name": "Pitch To Transform Curves Combat",
+      "path": "/Game/Data/Camera/Behaviors/BP_PitchToTransformCurves_Combat.BP_PitchToTransformCurves_Combat",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "combat",
+        "data",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1ec55fdde476ced84d56462f",
+      "name": "Set Rotation Limits Sprinting",
+      "path": "/Game/Data/Camera/Behaviors/BP_SetRotationLimits_Sprinting.BP_SetRotationLimits_Sprinting",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "setrotationlimits",
+        "sprinting"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "138128f40c6c04357415fbf0",
+      "name": "BTD Enemies Nearby",
+      "path": "/Game/Data/Camera/BehaviorTree/Decorators/BTD_EnemiesNearby.BTD_EnemiesNearby",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "btd",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "decorators",
+        "enemiesnearby"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1f0d49547def4223e2e4a274",
+      "name": "Pitch To Transform Curves Beast Nurturing",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_BeastNurturing.DA_PitchToTransformCurves_BeastNurturing",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "beastnurturing",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1845b692ef8a3c6f65dd63ca",
+      "name": "UI BP Camera Collision Default Cell Widget",
+      "path": "/Game/Data/Camera/Editor/CollisionTools/UI_BP_CameraCollisionDefaultCellWidget.UI_BP_CameraCollisionDefaultCellWidget",
+      "kind": "camera.asset",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "camera",
+        "camera.asset",
+        "cameracollisiondefaultcellwidget",
+        "cameradata",
+        "collisiontools",
+        "data",
+        "editor",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "12edbaaa9d2c5358520dbbda",
+      "name": "Disable Follow Cam Preset",
+      "path": "/Game/Data/Camera/Presets/DA_DisableFollowCam_Preset.DA_DisableFollowCam_Preset",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackVolumePreset",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "disablefollowcam",
+        "preset",
+        "presets"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1c81dddfc09d1b436b7e4c47",
+      "name": "Spiral Stairs Rail Preset",
+      "path": "/Game/Data/Camera/Presets/DA_SpiralStairs_Rail_Preset.DA_SpiralStairs_Rail_Preset",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackVolumePreset",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "preset",
+        "presets",
+        "rail",
+        "spiralstairs"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1e033ef0e2901baac995e8cb",
+      "name": "Default Third Person Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_DefaultThirdPersonCamera_StackSettings.DA_DefaultThirdPersonCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "defaultthirdpersoncamera",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1a6276064f2abf9706ebb37e",
+      "name": "Graphorn Dismounting Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_GraphornDismounting_StackSettings.DA_GraphornDismounting_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "graphorndismounting",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "1635342b54be4c818655adbf",
+      "name": "UI Field Guide Camera Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_UI_FieldGuideCamera_StackSettings.DA_UI_FieldGuideCamera_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "fieldguidecamera",
+        "stacks",
+        "stacksettings",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

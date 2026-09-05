@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "c58af79944d6b3d4a2efed23",
+      "name": "Unlocked",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Unlocked.UI_T_Unlocked",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "ui",
+        "unlocked"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c5597d1f29f9ce0881d925d6",
+      "name": "UI BP Model Viewer Presentation Layout",
+      "path": "/Game/Editors/ModelViewer/Layouts/Presentation/UI_BP_ModelViewer_PresentationLayout.UI_BP_ModelViewer_PresentationLayout",
+      "kind": "editor.reference",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "layouts",
+        "modelviewer",
+        "presentation",
+        "presentationlayout",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cc030c5f35f52eec6c0d50e3",
+      "name": "UI BP Model Viewer Slider",
+      "path": "/Game/Editors/ModelViewer/UI/UI_BP_ModelViewer_Slider.UI_BP_ModelViewer_Slider",
+      "kind": "editor.reference",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "modelviewer",
+        "slider",
+        "ui"
+      ],
+      "properties": {}
+    }
+  ]
+}

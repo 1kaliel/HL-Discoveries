@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "5090614a421362d0f9e8a84c",
+      "name": "Character360 Asian Female",
+      "path": "/Game/Editors/Character360/Backgrounds/Character360_AsianFemale.Character360_AsianFemale",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "asianfemale",
+        "backgrounds",
+        "character360",
+        "editor.reference",
+        "editors",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "5b967013c937aadf6e35f56b",
+      "name": "Gear Icon Maker Hand",
+      "path": "/Game/Editors/GearIconMaker/Scenes/GearIconMaker_Hand.GearIconMaker_Hand",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "geariconmaker",
+        "hand",
+        "scenes",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "58bc540dbfad1a48f91f6cb2",
+      "name": "Model Viewer Camera",
+      "path": "/Game/Editors/ModelViewer/Blueprints/BP_ModelViewer_Camera.BP_ModelViewer_Camera",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "camera",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "modelviewer"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "52b6db994c334a0690a2f038",
+      "name": "Model Viewer Placeholder",
+      "path": "/Game/Editors/ModelViewer/Blueprints/BP_ModelViewer_Placeholder.BP_ModelViewer_Placeholder",
+      "kind": "editor.reference",
+      "assetClass": "Blueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "modelviewer",
+        "placeholder"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "5a086431ad1180856c1cda65",
+      "name": "Arrow",
+      "path": "/Game/Editors/ModelViewer/Images/UI_T_Arrow.UI_T_Arrow",
+      "kind": "editor.reference",
+      "assetClass": "Texture2D",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "arrow",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "images",
+        "modelviewer",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "5d2270a510a952a7b6587dce",
+      "name": "UI BP Icon Frame",
+      "path": "/Game/Editors/ModelViewer/Layouts/Icon/UI_BP_IconFrame.UI_BP_IconFrame",
+      "kind": "editor.reference",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "icon",
+        "iconframe",
+        "layouts",
+        "modelviewer",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "5790def7c3f0c2c0d476aeeb",
+      "name": "M Model Viewer Alpha Capture",
+      "path": "/Game/Editors/ModelViewer/Materials/M_ModelViewer_AlphaCapture.M_ModelViewer_AlphaCapture",
+      "kind": "editor.reference",
+      "assetClass": "Material",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "alphacapture",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "materials",
+        "modelviewer"
+      ],
+      "properties": {}
+    }
+  ]
+}

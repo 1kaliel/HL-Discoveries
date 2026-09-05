@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "observations": [
+    {
+      "assetId": "a1ed54c153edfd9a6f50c115",
+      "runtime": "HogwartsMP",
+      "runtimeBuild": "8bb1e99",
+      "gameBuild": null,
+      "observedAt": "2026-09-04",
+      "contributor": "1kaliel",
+      "method": "maintainer-visual-report",
+      "result": "rendered",
+      "scope": "Static prop visibly rendered in one local game client.",
+      "limitations": [
+        "Grounding was incorrect.",
+        "No two-client replication test recorded.",
+        "No public screenshot or automated reproduction is attached to this initial observation."
+      ]
+    },
+    {
+      "assetId": "2fe2a803c22564a8f6ea7c13",
+      "runtime": "HogwartsMP",
+      "runtimeBuild": "8bb1e99",
+      "gameBuild": null,
+      "observedAt": "2026-09-04",
+      "contributor": "1kaliel",
+      "method": "maintainer-visual-report",
+      "result": "rendered",
+      "scope": "Static prop visibly rendered in one local game client.",
+      "limitations": [
+        "Grounding was incorrect.",
+        "No two-client replication test recorded.",
+        "No public screenshot or automated reproduction is attached to this initial observation."
+      ]
+    }
+  ]
+}

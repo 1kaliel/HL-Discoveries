@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HL-Discoveries asset shard v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "assets"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "assets": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/asset" } }
+  },
+  "$defs": {
+    "vector": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["x", "y", "z"],
+      "properties": { "x": { "type": "number" }, "y": { "type": "number" }, "z": { "type": "number" } }
+    },
+    "assetPath": { "type": "string", "pattern": "^/(Game|Engine|Script)/[A-Za-z0-9_./+\\-]+$" },
+    "asset": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "path", "kind", "assetClass", "classHint", "evidence", "sourceId", "tags", "properties"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-f0-9]{24}$" },
+        "name": { "type": "string", "minLength": 1 },
+        "path": { "$ref": "#/$defs/assetPath" },
+        "kind": { "enum": ["prop", "prop.skeletal", "animation.clip", "animation.prop", "audio", "vfx", "ui.icon", "creator.preset", "gear.appearance", "blueprint.reference", "camera.asset", "editor.reference"] },
+        "assetClass": { "type": ["string", "null"] },
+        "classHint": { "type": "string", "minLength": 1 },
+        "evidence": { "enum": ["filesystem", "registry", "inspected"] },
+        "sourceId": { "type": "string", "minLength": 1 },
+        "tags": { "type": "array", "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+        "properties": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "boundsCm": {
+              "type": "object", "additionalProperties": false, "required": ["min", "max"],
+              "properties": { "min": { "$ref": "#/$defs/vector" }, "max": { "$ref": "#/$defs/vector" } }
+            },
+            "skeleton": { "$ref": "#/$defs/assetPath" },
+            "durationSeconds": { "type": "number", "minimum": 0 },
+            "rootMotionEnabled": { "type": "boolean" },
+            "forceRootLock": { "type": "boolean" }
+          }
+        }
+      }
+    }
+  }
+}

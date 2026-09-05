@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "ce9ba1ef242a84838d608ed6",
+      "name": "Adjust Arm From Target Velocity Hippogriff Flight",
+      "path": "/Game/Data/Camera/Behaviors/BP_AdjustArmFromTargetVelocity_HippogriffFlight.BP_AdjustArmFromTargetVelocity_HippogriffFlight",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "adjustarmfromtargetvelocity",
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "hippogriffflight"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c68098742ed7c3f78c12a776",
+      "name": "Lag Hippogriff Flight Hover",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_HippogriffFlight_Hover.BP_Lag_HippogriffFlight_Hover",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "hippogriffflight",
+        "hover",
+        "lag"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c393a9db80dc35c25e32fa2f",
+      "name": "Lag Sprinting",
+      "path": "/Game/Data/Camera/Behaviors/BP_Lag_Sprinting.BP_Lag_Sprinting",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "lag",
+        "sprinting"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cd271e3cadb07b6ebf2abf75",
+      "name": "Move Arm Origin To Target Debug Target",
+      "path": "/Game/Data/Camera/Behaviors/BP_MoveArmOriginToTarget_DebugTarget.BP_MoveArmOriginToTarget_DebugTarget",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviors",
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "data",
+        "debugtarget",
+        "movearmorigintotarget"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c280c50f6d24acd154d61ada",
+      "name": "BT Camera Combat",
+      "path": "/Game/Data/Camera/BehaviorTree/BT_Camera_Combat.BT_Camera_Combat",
+      "kind": "camera.asset",
+      "assetClass": "BehaviorTree",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "bt",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "combat",
+        "data"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cac823acf10edfc7046a66fd",
+      "name": "BTD Is Mount In Gait",
+      "path": "/Game/Data/Camera/BehaviorTree/Decorators/BTD_IsMountInGait.BTD_IsMountInGait",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "behaviortree",
+        "btd",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "data",
+        "decorators",
+        "ismountingait"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c3af7584385354ea36b27115",
+      "name": "Field Guide Camera Transition Controller",
+      "path": "/Game/Data/Camera/BP_FieldGuide_CameraTransitionController.BP_FieldGuide_CameraTransitionController",
+      "kind": "camera.asset",
+      "assetClass": "Blueprint",
+      "classHint": "Blueprint",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprint",
+        "bp",
+        "camera",
+        "camera.asset",
+        "cameratransitioncontroller",
+        "data",
+        "fieldguide"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c9fadfbc206fd499a9b43104",
+      "name": "C Pitch To Focal Length Aiming",
+      "path": "/Game/Data/Camera/Curves/C_PitchToFocalLength_Aiming.C_PitchToFocalLength_Aiming",
+      "kind": "camera.asset",
+      "assetClass": "CurveFloat",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "aiming",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "data",
+        "pitchtofocallength"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c78e76ec17b16c189cea2832",
+      "name": "Pitch To Transform Curves Broom Flight",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_BroomFlight.DA_PitchToTransformCurves_BroomFlight",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "broomflight",
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c7939c3e72cbf8a3757aaf5d",
+      "name": "Pitch To Transform Curves Hippogriff Gallop",
+      "path": "/Game/Data/Camera/Curves/DA_PitchToTransformCurves_HippogriffGallop.DA_PitchToTransformCurves_HippogriffGallop",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackTransformCurveData",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "curves",
+        "da",
+        "data",
+        "hippogriffgallop",
+        "pitchtotransformcurves"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cfbd1c89c2932cc020ab4f4a",
+      "name": "Creature Capture Camera Success Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_CreatureCaptureCamera_Success_StackSettings.DA_CreatureCaptureCamera_Success_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "creaturecapturecamera",
+        "da",
+        "data",
+        "stacks",
+        "stacksettings",
+        "success"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "c334e9242e7c26d592c26506",
+      "name": "Graphorn Mounting To Trot Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_GraphornMountingToTrot_StackSettings.DA_GraphornMountingToTrot_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "graphornmountingtotrot",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cdcfe00feb5707b8c1e7a37a",
+      "name": "Last Kill Camera V3 Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_LastKillCameraV3_StackSettings.DA_LastKillCameraV3_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "lastkillcamerav3",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "cb1edb0371046a829b122d1e",
+      "name": "Parsel Tongue Camera Gate Stack Settings",
+      "path": "/Game/Data/Camera/Stacks/DA_ParselTongueCameraGate_StackSettings.DA_ParselTongueCameraGate_StackSettings",
+      "kind": "camera.asset",
+      "assetClass": "CameraStackSettings",
+      "classHint": "CameraData",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "camera",
+        "camera.asset",
+        "cameradata",
+        "da",
+        "data",
+        "parseltonguecameragate",
+        "stacks",
+        "stacksettings"
+      ],
+      "properties": {}
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "bbff86a071543ca2f822200d",
+      "name": "MI Backdrop",
+      "path": "/Game/Editors/Character360/Backgrounds/MI_Backdrop.MI_Backdrop",
+      "kind": "editor.reference",
+      "assetClass": "MaterialInstanceConstant",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "backdrop",
+        "backgrounds",
+        "character360",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "mi"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b5aea8829061fce2e307d1aa",
+      "name": "STR Gear Level Override",
+      "path": "/Game/Editors/GearIconMaker/Blueprints/STR_GearLevelOverride.STR_GearLevelOverride",
+      "kind": "editor.reference",
+      "assetClass": "UserDefinedStruct",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "blueprints",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "geariconmaker",
+        "gearleveloverride",
+        "str"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "bd97c202f60dd1a70025754a",
+      "name": "Gear Icon Maker Head",
+      "path": "/Game/Editors/GearIconMaker/Scenes/GearIconMaker_Head.GearIconMaker_Head",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "geariconmaker",
+        "head",
+        "scenes",
+        "world"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b52456ca5adeaebed64905dc",
+      "name": "UI BP Model Viewer Icon Layout",
+      "path": "/Game/Editors/ModelViewer/Layouts/Icon/UI_BP_ModelViewer_IconLayout.UI_BP_ModelViewer_IconLayout",
+      "kind": "editor.reference",
+      "assetClass": "WidgetBlueprint",
+      "classHint": "EditorAsset",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "bp",
+        "editor.reference",
+        "editorasset",
+        "editors",
+        "icon",
+        "iconlayout",
+        "layouts",
+        "modelviewer",
+        "ui"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "b45508696fd7884760961ec6",
+      "name": "LVL Model Viewer Turntable Layout",
+      "path": "/Game/Editors/ModelViewer/Layouts/Turntable/LVL_ModelViewer_TurntableLayout.LVL_ModelViewer_TurntableLayout",
+      "kind": "editor.reference",
+      "assetClass": "World",
+      "classHint": "World",
+      "evidence": "registry",
+      "sourceId": "ck-1404437",
+      "tags": [
+        "editor.reference",
+        "editors",
+        "layouts",
+        "lvl",
+        "modelviewer",
+        "turntable",
+        "turntablelayout",
+        "world"
+      ],
+      "properties": {}
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "relationships": [
+    {
+      "from": "/Game/Animation/Props/Chests/GoldChest/GoldChest_Open_anm.GoldChest_Open_anm",
+      "relation": "uses-skeleton",
+      "to": "/Game/RiggedObjects/Props/Chest/GAC_TreasureChest/SK_GAC_TreasureChest_Master_Skeleton.SK_GAC_TreasureChest_Master_Skeleton",
+      "evidence": "inspected",
+      "sourceId": "ck-1404437"
+    },
+    {
+      "from": "/Game/RiggedObjects/Props/Chest/GAC_TreasureChest/ABP_GAC_TreasureChest_Master",
+      "relation": "package-dependency",
+      "to": "/Game/RiggedObjects/Props/Chest/GAC_TreasureChest/SK_GAC_TreasureChest_Master_Skeleton",
+      "evidence": "registry",
+      "sourceId": "ck-1404437"
+    },
+    {
+      "from": "/Game/RiggedObjects/Props/Chest/GAC_TreasureChest/ABP_GAC_TreasureChest_Master",
+      "relation": "package-dependency",
+      "to": "/Game/Animation/Props/Chests/GoldChest/GoldChest_Open_anm",
+      "evidence": "registry",
+      "sourceId": "ck-1404437"
+    }
+  ]
+}

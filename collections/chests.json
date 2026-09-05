@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "title": "Chest research",
+  "assetIds": [
+    "ec21bd82ea3d36d317eb2aca",
+    "0110cecda74d17130d761a49",
+    "c9a5e3d9a488e1ede5641c80",
+    "57e6892aab68c65e0ea362ff",
+    "283938a0482b49badc713af7",
+    "ca4b7ed89c3b804d997b4fd9",
+    "ec122b32794b17b418db727e",
+    "b7f11303d265ffddd791bbf1"
+  ],
+  "guide": "guides/chests.md"
+}

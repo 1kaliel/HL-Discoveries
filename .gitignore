@@ -1,0 +1,18 @@
+# Only reference data and documentation belong in this repository.
+*.uasset
+*.umap
+*.pak
+*.utoc
+*.ucas
+*.exe
+*.dll
+*.log
+.env
+.env.*
+node_modules/
+*.sqlite
+*.sqlite-*
+*.gz
+*.zip
+.DS_Store
+Thumbs.db
