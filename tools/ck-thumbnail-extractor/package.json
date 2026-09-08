@@ -1,0 +1,21 @@
+{
+  "name": "@hl-discoveries/ck-thumbnail-extractor",
+  "version": "1.0.0",
+  "description": "Extract cached PNG thumbnails from Hogwarts Legacy Creator Kit package files.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "bin": {
+    "ck-thumbnail-extractor": "bin/ck-thumbnail-extractor.mjs"
+  },
+  "scripts": {
+    "test": "node --test",
+    "ui": "node scripts/serve-ui.mjs"
+  },
+  "dependencies": {
+    "pngjs": "7.0.0"
+  },
+  "license": "MIT"
+}
