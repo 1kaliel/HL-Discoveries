@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-08T19:54:38.4150840Z",
+  "title": "Design System: Hogwarts Legacy CK Thumbnail Extractor",
+  "extensions": {
+    "colorMeta": {
+      "active-amber": { "role": "primary", "displayName": "Active Amber", "canonical": "#f8d451", "tonalRamp": ["#292307", "#4d420f", "#716018", "#957f25", "#b99f35", "#d9bd47", "#f8d451", "#fff4b8"] },
+      "ivory-ink": { "role": "neutral", "displayName": "Ivory Ink", "canonical": "#f4f4f0", "tonalRamp": ["#252524", "#464644", "#686866", "#8b8b88", "#aeaeaa", "#d0d0cc", "#f4f4f0", "#ffffff"] },
+      "ash-text": { "role": "neutral", "displayName": "Ash Text", "canonical": "#858b8d", "tonalRamp": ["#17191a", "#2d3031", "#444849", "#5c6163", "#757b7d", "#919799", "#b5babc", "#eef0f0"] },
+      "dim-state": { "role": "neutral", "displayName": "Dim State", "canonical": "#484c51", "tonalRamp": ["#131416", "#26282b", "#3a3d41", "#50545a", "#6b7077", "#8c9198", "#b6bac0", "#eef0f2"] },
+      "emissive-black": { "role": "neutral", "displayName": "Emissive Black", "canonical": "#080808", "tonalRamp": ["#080808", "#242424", "#424242", "#626262", "#858585", "#aaaaaa", "#d1d1d1", "#f2f2f2"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Terminal Display", "purpose": "Active package and extraction result headings." },
+      "body": { "displayName": "Terminal Body", "purpose": "Operational explanations and script guidance." },
+      "label": { "displayName": "Measured Label", "purpose": "Statuses, facts, and counters." }
+    },
+    "shadows": [],
+    "motion": [
+      { "name": "processing-caret", "value": "900ms steps(1, end)", "purpose": "Signals active package processing; removed for reduced-motion users." }
+    ],
+    "breakpoints": [
+      { "name": "stack", "value": "760px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Bracket Button",
+      "kind": "button",
+      "refersTo": "button-active",
+      "description": "Primary local action for file selection or archive download.",
+      "html": "<button class=\"ds-bracket-button\">[ CHOOSE FILES ]</button>",
+      "css": ".ds-bracket-button { background: transparent; color: #f8d451; border: 2px solid #f8d451; border-radius: 0; padding: .75rem 1.1rem; font: 400 1rem Cascadia Mono, Consolas, monospace; letter-spacing: .07em; text-transform: uppercase; } .ds-bracket-button:hover { background: #f8d451; color: #080808; } .ds-bracket-button:focus-visible { outline: 2px solid #fff3b0; outline-offset: 4px; }"
+    },
+    {
+      "name": "Package Queue Row",
+      "kind": "custom",
+      "description": "Pairs a CK-relative source name with a textual extraction state.",
+      "html": "<button class=\"ds-queue-row\"><span>Animation/Human/Thinking.uasset</span><span>PNG extracted</span></button>",
+      "css": ".ds-queue-row { width: 100%; display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 1rem; padding: .5rem 1rem; border: 0; border-bottom: 1px dotted #484c51; border-radius: 0; background: transparent; color: #858b8d; font: 400 1rem Cascadia Mono, Consolas, monospace; text-align: left; } .ds-queue-row:hover { color: #f4f4f0; } .ds-queue-row:focus-visible { outline: 2px solid #fff3b0; outline-offset: -2px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The CK Cache Terminal",
+    "overview": "The interface reads like a purpose-built inspection terminal. A package queue owns the upper plane, exact extraction facts sit beside the active preview, and amber is reserved for the current action.",
+    "keyCharacteristics": ["Near-black field with ivory and ash text", "Monospaced filenames, offsets, dimensions, and counters", "One amber signal for selection, focus, and primary action", "Dotted rules and tonal planes instead of cards or decorative imagery"],
+    "rules": [
+      { "name": "The One Signal Rule", "body": "Amber identifies action or focus; it never becomes ambient decoration.", "section": "colors" },
+      { "name": "The Identifier Rule", "body": "Preserve filename case in queue rows; reserve uppercase for short operational labels and statuses.", "section": "typography" }
+    ],
+    "dos": ["Do keep local-processing status visible before file selection.", "Do expose exact filenames, dimensions, offsets, and result counts.", "Do keep active, loading, failed, empty, disabled, hover, and focus states legible."],
+    "donts": ["Don't add remote fonts, decorative game art, uploads, or analytics.", "Don't introduce rounded cards, ornamental fantasy motifs, gradients, or glow.", "Don't use amber for passive decoration or status that does not need attention."]
+  }
+}

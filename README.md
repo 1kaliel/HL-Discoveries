@@ -3,8 +3,8 @@
 **A community reference for Hogwarts Legacy assets and modding discoveries.**
 
 Find asset paths, animation properties, related meshes and sounds, and build-specific
-runtime observations. This is a **data-only reference**, not a multiplayer framework,
-game resource, asset pack, or replacement for official API documentation.
+runtime observations. The repository is primarily a **data reference**, not a multiplayer
+framework, game resource, asset pack, or replacement for official API documentation.
 
 ## Start here
 
@@ -12,6 +12,8 @@ game resource, asset pack, or replacement for official API documentation.
 - [Food and ingredient meshes](guides/items.md): useful drop-object candidates.
 - [Understanding evidence](docs/evidence.md): what is known, inferred and still untested.
 - [Data format and queries](docs/data-format.md): consume the database in your own tools.
+- [CK Thumbnail Extractor](tools/ck-thumbnail-extractor): extract cached PNG previews
+  from your own Hogwarts Legacy Creator Kit packages.
 - [Download JSON or SQLite](https://github.com/1kaliel/HL-Discoveries/releases/latest).
 - [Contribute a discovery](CONTRIBUTING.md).
 
@@ -48,7 +50,9 @@ observations. Contributions should help someone select and test an asset with fe
 
 No private framework code, server configuration, player data, raw logs, local installation
 paths, compiled mods, `.uasset` files, game archives, or extracted mesh/audio/texture binaries
-are included. The initial release contains no thumbnails or preview media.
+are included. Small, source-only research utilities may live under `tools`; they must not
+bundle game content or depend on a private framework. The initial dataset release contains
+no thumbnails or preview media.
 
 ## Project status
 

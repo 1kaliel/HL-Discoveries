@@ -148,7 +148,7 @@ Use only `Uint8Array`, `DataView`, and `TextEncoder` so the modules run in Node 
 
 **Step 1: Complete the approved visual specification**
 
-Use `.impeccable/mocks/depth-queue-a.png` as the approved direction. Generate its grid/regions/font evidence, then implement the first viewport with the queue as the dominant plane. Before editing UI files, read Impeccable's craft-floor reference. Use system monospace fonts, semantic controls, visible focus, text status labels, a single amber active color, and no external assets or network requests.
+Use the approved Depth queue composition as the direction, then implement the first viewport with the queue as the dominant plane. Before editing UI files, read Impeccable's craft-floor reference. Use system monospace fonts, semantic controls, visible focus, text status labels, a single amber active color, and no external assets or network requests.
 
 **Step 2: Add the loopback launcher**
 

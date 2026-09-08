@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <meta name="description" content="Extract cached PNG thumbnails from your own Hogwarts Legacy Creator Kit package files, entirely on this device.">
+    <title>Hogwarts Legacy CK Thumbnail Extractor</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="app-shell" id="drop-zone">
+      <header class="masthead">
+        <h1>Hogwarts Legacy CK Thumbnail Extractor</h1>
+        <p>Local only · files never leave this device</p>
+      </header>
+
+      <section class="queue-stage" aria-labelledby="queue-title">
+        <div class="active-line">
+          <h2 id="queue-title">Select CK package files</h2>
+          <output id="active-status">Waiting for CK packages</output>
+        </div>
+        <ol class="queue" id="queue" aria-live="polite">
+          <li class="queue-empty">
+            <span>Choose one or more Creator Kit .uasset files</span>
+            <span>Idle</span>
+          </li>
+        </ol>
+      </section>
+
+      <section class="controls" aria-label="Extraction controls">
+        <div class="choose-group">
+          <input id="file-input" type="file" accept=".uasset" multiple hidden>
+          <input id="folder-input" type="file" accept=".uasset" webkitdirectory directory multiple hidden>
+          <button class="bracket-button" id="choose-files" type="button">Choose files</button>
+          <button class="text-button" id="choose-folder" type="button">or folder</button>
+        </div>
+
+        <fieldset class="channel-modes">
+          <legend>Cached thumbnail channels</legend>
+          <label>
+            <input type="radio" name="channels" value="bgra" checked>
+            <span>CK cached BGRA → RGBA</span>
+          </label>
+          <label>
+            <input type="radio" name="channels" value="rgba">
+            <span>Preserve RGBA</span>
+          </label>
+        </fieldset>
+
+        <button class="text-button clear-button" id="clear" type="button" disabled>Clear queue</button>
+      </section>
+
+      <section class="result" aria-labelledby="result-title">
+        <div class="preview" id="preview-frame">
+          <span id="preview-empty">No preview</span>
+        </div>
+        <div class="result-copy">
+          <h2 id="result-title">No cached PNG inspected</h2>
+          <dl class="facts">
+            <div><dt>Dimensions</dt><dd id="dimensions">—</dd></div>
+            <div><dt>Byte offset</dt><dd id="offset">—</dd></div>
+          </dl>
+          <p id="result-message">Choose files above or drop .uasset files anywhere on this page.</p>
+          <button class="download-button" id="download" type="button" disabled>
+            Download PNGs + manifest
+          </button>
+        </div>
+      </section>
+
+      <footer class="summary-line">
+        <output id="summary">0 ready · 0 no cache · 0 failed</output>
+        <output id="processing">Idle</output>
+      </footer>
+    </main>
+
+    <script type="module" src="./app.mjs"></script>
+  </body>
+</html>

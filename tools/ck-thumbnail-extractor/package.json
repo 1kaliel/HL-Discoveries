@@ -4,6 +4,16 @@
   "description": "Extract cached PNG thumbnails from Hogwarts Legacy Creator Kit package files.",
   "type": "module",
   "private": true,
+  "files": [
+    "bin",
+    "src",
+    "ui",
+    "scripts",
+    "start-ui.cmd",
+    "README.md",
+    "LICENSE",
+    "THIRD_PARTY_NOTICES.md"
+  ],
   "engines": {
     "node": ">=20"
   },

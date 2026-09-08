@@ -17,4 +17,8 @@ Legacy game assets, executable code, trademarks, or other third-party intellectu
 Asset identifiers describe referenced material; the referenced asset files are not distributed
 here. Nothing here creates restrictions on facts that are not subject to copyright.
 
+Executable code and its accompanying documentation under
+`tools/ck-thumbnail-extractor` are separately available under the MIT License in that
+directory. This exception does not license any game asset a user processes with the tool.
+
 No warranty of accuracy, compatibility, completeness or fitness for any purpose is provided.

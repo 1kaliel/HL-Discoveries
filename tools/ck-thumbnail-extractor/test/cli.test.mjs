@@ -1,14 +1,23 @@
 import assert from 'node:assert/strict';
-import { mkdtemp, mkdir, readFile, symlink, writeFile } from 'node:fs/promises';
+import { mkdtemp, mkdir, readFile, rm, symlink, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
-import test from 'node:test';
+import test, { afterEach } from 'node:test';
 
 import { makePng, joinBytes } from './fixtures.mjs';
 
 const toolRoot = path.resolve(import.meta.dirname, '..');
 const cliPath = path.join(toolRoot, 'bin', 'ck-thumbnail-extractor.mjs');
+const workspaces = new Set();
+
+afterEach(async () => {
+  await Promise.all([...workspaces].map((workspace) => rm(workspace, {
+    recursive: true,
+    force: true,
+  })));
+  workspaces.clear();
+});
 
 function runCli(arguments_, cwd = toolRoot) {
   return spawnSync(process.execPath, [cliPath, ...arguments_], {
@@ -18,7 +27,9 @@ function runCli(arguments_, cwd = toolRoot) {
 }
 
 async function createWorkspace() {
-  return mkdtemp(path.join(tmpdir(), 'ck-thumb-test-'));
+  const workspace = await mkdtemp(path.join(tmpdir(), 'ck-thumb-test-'));
+  workspaces.add(workspace);
+  return workspace;
 }
 
 test('CLI recursively extracts CK thumbnails and writes a script-ready manifest', async () => {
